@@ -1,7 +1,5 @@
 from pyspark.sql import SparkSession
-
 spark = SparkSession.builder.getOrCreate()
-
 def setup_catalog_schema(catalog_name="careconnect", schema_name="default"):
     catalogs = spark.sql("SHOW CATALOGS").rdd.map(lambda row: row.catalog).collect()
     if catalog_name not in catalogs:
