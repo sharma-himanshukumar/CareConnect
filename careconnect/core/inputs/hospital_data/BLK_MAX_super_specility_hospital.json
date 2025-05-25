@@ -1,0 +1,563 @@
+[
+{
+  "chunk_id": "p1_cover",
+  "page_number": 1,
+  "type": "cover_page",
+  "hospital_name": "BLK-MAX Super Speciality Hospital",
+  "tagline": "THE NEW FACE OF HEALTHCARE"
+}
+,
+{
+  "chunk_id": "p2_image",
+  "page_number": 2,
+  "type": "full_page_image",
+  "description": "Image showing a doctor in a white coat holding a stethoscope, and another image of hands holding a patient's hand. No text content."
+}
+,
+{
+  "chunk_id": "p3_vision_values",
+  "page_number": 3,
+  "type": "vision_and_values",
+  "vision_title": "OUR VISION",
+  "vision_statement": "To be the most well regarded healthcare provider in India committed to the highest standards of clinical excellence and patient care supported by latest technology and cutting edge research.",
+  "values_title": "OUR VALUES",
+  "values": [
+    {
+      "name": "Compassion",
+      "description": "We have a deeper level of patient understanding and are always empathetic to their needs. This encourages a culture of providing a higher standard of patient-centred care. We respect each other and our patients, and ensure that their needs are met with dignity. We rise to the occasion each time for we recognise the positive social impact we can create."
+    },
+    {
+      "name": "Excellence",
+      "description": "We ask more of ourselves and are always passionate about achieving the highest standards of medical expertise and patient care. We understand that being the best is a continuous journey of becoming better versions of ourselves every day."
+    },
+    {
+      "name": "Consistency",
+      "description": "We always deliver on our commitment and ensure the highest level of patient care is met at every stage, every time. We believe that only through consistency can we achieve our patients’ trust and fulfil our goals."
+    },
+    {
+      "name": "Efficiency",
+      "description": "We create a responsive healing environment, by being nimble to the needs of our patients and delivering what they really need with precision and timing. We are focused yet fast, personal yet practical, advanced yet seamless in delivering the exact care our patients need."
+    }
+  ]
+}
+,
+{
+  "chunk_id": "p4_image",
+  "page_number": 4,
+  "type": "full_page_image",
+  "description": "Stylized image of a gloved hand holding a pill with medical icons in the background. No text content."
+}
+,
+{
+  "chunk_id": "p5_about_us_network_facts",
+  "page_number": 5,
+  "type": "about_and_key_facts",
+  "about_us_title": "ABOUT US",
+  "about_us_content": "BLK-Max Super Speciality Hospital is part of Max Healthcare Institute Limited (MHIL) is one of India’s leading provider of healthcare services, oering a wide range of services, making it a force to reckon with in the field of Super Speciality Tertiary Healthcare. The Hospital has a capacity of 650 beds with dedicated 162 critical care beds, 20 modular operation theatres and speciality-specific dedicated OPD blocks. The facility is equipped with the most modern medical diagnostic & therapeutic equipments, to name a few, TomoTherapy (Next Generation Image-guided Intensity-modulated Radiation Therapy for Cancer Treatment); India’s First Private Hospital with Dual Console Robotic Surgical System; Next Generation Robotic System for Joint Replacement; India’s Most Advanced Integrated Robotic System for Spine Surgery; South Asia’s First Signa Artist MRI; Revolution Frontier CT; Flat Panel Combo Cath Lab with 3D reconstruction, Ultrasound with 3D and 4D imaging; Dual Head Spect CT with variable angle Gamma Camera, the latest generation of PET-CT and Operating Microscopes.",
+  "key_facts_title": "KEY FACTS ABOUT OUR NETWORK",
+  "key_facts": [
+    {"fact": "16 hospitals"},
+    {"fact": "3400+ beds"},
+    {"fact": "4800+ leading doctors"},
+    {"fact": "15000 employees"},
+    {"fact": "3.5 million patients from over 135 countries"},
+    {"fact": "11 NABL accredited Max Labs"},
+    {"fact": "9 blood banks"},
+    {"fact": "16 NABH accredited Hospitals"}
+  ]
+}
+,
+{
+  "chunk_id": "p6_image",
+  "page_number": 6,
+  "type": "full_page_image",
+  "description": "Image of a medical professional in a cap and mask. No text content."
+}
+,
+{
+  "chunk_id": "p7_jci_accreditation",
+  "page_number": 7,
+  "type": "accreditation_info",
+  "title": "JCI - GOLD IN GLOBAL HEALTHCARE STANDARDS",
+  "content_p1": "BLK-Max Super Speciality Hospital is accredited by the Joint Commission International (JCI), the world's premier body for accrediting healthcare organisations. This accreditation reflects our commitment to provide international class healthcare with a total focus on the patients we serve. JCI accreditation is given only to selected hospitals, that meet its stringent guidelines in patient safety and patient care.",
+  "content_p2": "BLK-Max Super Speciality Hospital is world class tertiary care hospital and is a premier name in the healthcare domain in the world. The state-of-the-art facilities provide the best medical care with a personalized touch. The hospital has always set benchmarks in patient care, clinical research protocols, and healthcare delivery systems."
+}
+,
+{
+  "chunk_id": "p8_network_hospitals_intro_list1",
+  "page_number": 8,
+  "type": "network_hospitals",
+  "title": "OUR NETWORK HOSPITALS",
+  "introduction": "Max Healthcare Institute Limited (MHIL) has 16 facilities in North India and Maharashtra, oering services in over 30 medical disciplines. Of this, 12 facilities are located in Delhi & NCR and the others are in Mumbai, Mohali, Dehradun and Bathinda. These include state-of-the-art tertiary and quaternary care hospitals at Rajendra Place (Pusa Road), Saket, Patparganj, Vaishali and Shalimar Bagh in NCR Delhi and one each in Mumbai, Mohali, Bathinda and Dehradun, secondary care hospital in Gurgaon and Day Care Centres at Noida, Lajpat Nagar and Panchsheel Park in NCR Delhi. All the Max hospitals are committed to first-class quality medical services provided by qualified consultants and specialists. Patients benefit from a state-of-the-art medical infrastructure and a personal atmosphere.",
+  "hospitals_list_page8": [
+    "BLK-Max Super Speciality Hospital, Pusa Road",
+    "Max Super Speciality Hospital, Saket (East Block)",
+    "Max Super Speciality Hospital, Saket (West Block)",
+    "Max Super Speciality Hospital, Patparganj",
+    "Max Smart Super Speciality Hospital, Saket",
+    "Nanavati Max Super Speciality Hospital, Mumbai"
+  ]
+}
+,
+{
+  "chunk_id": "p9_network_hospitals_list2",
+  "page_number": 9,
+  "type": "network_hospitals_list",
+  "hospitals_list_page9": [
+    "Max Super Speciality Hospital, Shalimar Bagh",
+    "Max Super Speciality Hospital, Vaishali",
+    "Max Hospital, Gurgaon",
+    "Max Multi Speciality Centre, Noida",
+    "Max Multi Speciality Centre, Panchsheel Park",
+    "Max Institute of Cancer Care, Lajpat Nagar",
+    "Max Medcentre, Lajpat Nagar",
+    "Max Super Speciality Hospital, Dehradun",
+    "Max Super Speciality Hospital, Mohali",
+    "Max Super Speciality Hospital, Bathinda"
+  ]
+}
+,
+{
+  "chunk_id": "p10_image",
+  "page_number": 10,
+  "type": "full_page_image",
+  "description": "Image of a smiling female medical professional in blue scrubs with a stethoscope. No text content."
+}
+,
+{
+  "chunk_id": "p11_medical_services",
+  "page_number": 11,
+  "type": "services_overview",
+  "title": "OUR MEDICAL SERVICES",
+  "content_p1": "At BLK-Max Super Speciality Hospital, we provide a complete spectrum of clinical services under one roof. With over 30 clinical disciplines and 11 highly specialised Centres of Excellence, we provide services in an interdisciplinary and seamless manner.",
+  "content_p2": "We oer the advantage of integrated medical care in a multidisciplinary setting provided by faculty of highly qualified doctors, nurses & healthcare professionals. We also oer comprehensive specialist services combined with advanced medical technology. We aim to maintain leadership as a regional hub by providing complex procedures such as neurovascular interventional procedures, targeted cancer treatments, heart surgeries, orthopaedic surgeries and transplants."
+}
+,
+{
+  "chunk_id": "p12_bmt_centre",
+  "page_number": 12,
+  "type": "department_overview",
+  "title": "BONE MARROW TRANSPLANT CENTRE",
+  "content_p1": "BLK-Max Centre for Bone Marrow Transplant is the largest in India and amongst the biggest in Asia.",
+  "content_p2": "The Centre is equipped with ultra-modern infrastructure and internationally trained, widely experienced faculty. It is supported by state-of-the-art laboratory & transfusion services, along with a fully equipped Radiation Oncology unit, with facility for total body irradiation.",
+  "content_p3": "The Centre is the ‘first’ in New Delhi to establish and successfully perform ‘Unrelated Donor Stem Cell Transplant’ for Thalassemia Major using donor from Indian registry. The Centre is also an authorised stem cell collection centre for DATRI Blood Stem Cell Donor’s Registry.",
+  "content_p4": "More than 125 specialists, nurses and technicians work together to plan and implement treatment designed to meet the individual needs of each patient.",
+  "content_p5": "The best in high-quality treatment, access to the latest technology and research, and our all-encompassing “Patients First” philosophy make us the leading centre in Asia."
+}
+,
+{
+  "chunk_id": "p13_cancer_critical_care",
+  "page_number": 13,
+  "type": "multi_department_overview",
+  "departments": [
+    {
+      "title": "CANCER CENTRE",
+      "content_p1": "BLK-Max Cancer Centre is the most comprehensive Cancer Care Centre in the entire region with a focus on holistic approach to Cancer treatment. With more than 100 dedicated beds, ultra-modern equipment and organ-specific specialist teams, the Centre is a preferred choice for comprehensive Cancer Care.",
+      "content_p2": "The Centre uses the latest treatment modalities in management of Cancers with Chemotherapy, Targeted Therapies and Hormonal Therapy. All cases requiring surgery are diagnosed and investigated by surgical teams streamlined into and specialising in organ specific services.",
+      "content_p3": "The Centre also oers advanced Robotic Surgical programme for various Cancers including Head and Neck Cancer, Thorax and Lung Cancer, Thyroid Cancer, Gynaecological Cancer, Gastrointestinal Cancer, Colorectal Cancer, Prostate Cancer, Bladder Cancer, Breast Cancer, Cervical Cancer, Ovarian Cancer and Obstructive Sleep Apnea (OSA), among others.",
+      "content_p4": "BLK-Max Super Speciality Hospital is also proud home to TomoTherapy- Next Generation Image-guided Intensity-modulated Radiation Therapy. In fact, it is North India's First and Most Advanced System for Cancer treatment which features 3-dimensional on-board Megavoltage Computed Tomography (MVCT) and the latest configuration of Image Guided Radiation Therapy (IGRT)."
+    },
+    {
+      "title": "CRITICAL CARE CENTRE",
+      "content_p1": "BLK-Max Super Speciality Hospital has one of the biggest Critical Care units in North India with 125 beds dedicated to dierent specialities viz. Medical, Surgical, Cardiac, Paediatric, Neo-Natal, Neurosciences and Organ Transplant. All Critical Care beds are equipped with cutting edge monitoring systems, ventilators, syringe pumps and infusion pumps.",
+      "content_p2": "Facilities of Haemodialysis, CRRT, SLED, Endoscopy and Bronchoscopy are available by the bedside within the unit. The ICUs are manned round-the-clock by Critical Care consultants, dedicated nurses and technicians with specialised training in Critical Care services."
+    }
+  ]
+}
+,
+{
+  "chunk_id": "p14_image",
+  "page_number": 14,
+  "type": "full_page_image",
+  "description": "Image of a female medical professional with a stethoscope, BLK-MAX logo on her coat. No text content."
+}
+,
+{
+  "chunk_id": "p15_child_health_digestive_liver",
+  "page_number": 15,
+  "type": "multi_department_overview",
+  "departments": [
+    {
+      "title": "CHILD HEALTH CENTRE",
+      "content_p1": "Centre for Child Health is one of the most comprehensive Centres for child care in the entire region and provides excellent care in General Paediatrics, Asthma & Allergy, Adolescent Medicine, Child & Adolescent Psychiatry and Psychology, Developmental Paediatrics, Endocrinology, Gastroenterology, Haematology and Oncology.",
+      "content_p2": "The Hospital has a dedicated Paediatric Surgery & Urology programme for a wide range of congenital and acquired conditions requiring surgical intervention.",
+      "content_p3": "The 8-bed NICU unit is equipped with high-end monitors, incubators, high-frequency ventilators and surfactant therapy to deal with any level of medical complications in the newborn. The Centre also has a 12-bed Paediatric ICU managed by one of the most experienced teams of highly specialized intensivists in the country. Being one of the handful Level III neonatal ICUs, the Unit undertakes transport and care of critically ill children from the neighbouring states for management in BLK-Max Super Speciality Hospital."
+    },
+    {
+      "title": "INSTITUTE FOR DIGESTIVE & LIVER DISEASES",
+      "content_p1": "BLK-Max Institute for Digestive & Liver Diseases provides patient-centric, comprehensive, state-of-the-art care with compassion to patients with GI, Liver, Biliary and Pancreatic diseases under one roof. It is one of the most advanced centres in Northern India with highly qualified and experienced manpower, Physicians, liver transplant Surgeons, Critical Care Doctors, Interventional Radiologists, technicians, nurses, other support sta, all dedicated to Gastroenterology and Hepatology for many decades.",
+      "content_p2": "The Centre is equipped with an infrastructure of international standards comprising of dedicated ICU space, well-designed endoscopy lab as per international guidelines, state-of-the-art technology including endoscopes, imaging facilities, critical care monitoring, high-end manometry, GI physiology lab, FMT lab, Elastography / Fibroscan, etc.",
+      "content_p3": "The Centre has India’s first dedicated Endoscopy Suite for Endoscopic Ultrasound and other Advanced Endoscopic procedures like ERCP, Stenting, UGIE, Colonoscopy, etc. These Endoscopy Suites have round-the-clock cover by Anaesthetists and are manned by highly trained technical nursing sta. Endoscopy set up is fully equipped for all diagnostic and advanced, therapeutic procedures linked with pancreaticobiliary diseases, third space Endoscopy, etc.",
+      "liver_transplant_title": "Liver Transplant",
+      "liver_transplant_p1": "The Centre has the most successful liver Transplant programme which boasts of the best and most well equipped Liver Transplant ICU in the country with a separate AHU for each bed, reducing the risk of infection to the minimum. It is one of the few Centres in the country where deceased donor as well as living donor liver transplantation along with comprehensive treatment for Gastrointestinal, Hepatobiliary and Pancreatic diseases is being oered to patients under one roof.",
+      "liver_transplant_p2": "The department has a successful Deceased Donor Transplant Programme and has performed the maximum number of Deceased Donor Organ Retrievals and Transplants in Northern India."
+    }
+  ]
+}
+,
+{
+  "chunk_id": "p16_heart_vascular_institute",
+  "page_number": 16,
+  "type": "department_overview",
+  "title": "HEART & VASCULAR INSTITUTE",
+  "content_p1": "BLK-Max Heart & Vascular Institute provides a comprehensive range of diagnostics as well as therapeutic services for patients with cardio vascular ailments. The Centre provides dedicated round-the-clock services to all patients with heart ailments. The Centre has received the Prestigious Lumen Global award for the best response in acute heart attacks for its eective practices to treat heart attacks during the Golden Hour: first hour after the onset of a heart attack, during which if the person gets the required treatment he can expect near-complete recovery.",
+  "content_p2": "The Centre has a team of highly experienced and qualified faculty providing 24X7 Interventional Cardiac Services, such as Coronary Angioplasty and Stenting (PCI) and Primary PCI for acute myocardial infarction. The Department routinely performs complex cardiac procedures like Mitral-valvuloplasties, Permanent Pacemaker Implantation, Cardiac Resynchronisation procedures, AICD (Implantable Cardioverter-Defibrillator) Implantation and procedures for congenital ailments such as Coarctation of Aorta, Stenting and PDA closure.",
+  "content_p3": "The Centre oers a full range of non-invasive and advanced diagnostic services including Ambulatory Blood Pressure Monitoring, HUTT, CTC Coronary Angiography as well as Nuclear Scans for Cardiology.",
+  "content_p4": "The Division of Cardio-Thoracic and Vascular Surgery is an established centre for Coronary Arterial Bypass Surgery (CABG), Robotic Heart Surgery, Valve replacement and repair, ECMO, TAVR / TAVI, LVAD, Aortic root, Aneurysm surgeries and has a robust programme for Heart Transplant. BLK-Max is amongst the few centres oering Minimal Invasive Bypass surgeries in the region and most cardiac bypasses are total arterial revascularisation, o-pump surgeries, making the Centre at-par with the best in the world. The Centre also oers a complete range of diagnostic and therapeutic options such as Endovascular Revascularization, AV Fistula Construction, DVT Treatment, Peripheral Bypass procedures and Peripheral Angioplasty."
+}
+,
+{
+  "chunk_id": "p17_neurosciences_orthopaedics",
+  "page_number": 17,
+  "type": "multi_department_overview",
+  "departments": [
+    {
+      "title": "NEUROSCIENCES CENTRE",
+      "content_p1": "BLK-Max Centre for Neurosciences provides comprehensive evaluation and therapeutic services to a wide range of conditions like Stroke, Brain Haemorrhage, Backache, Spinal Disorders, Neuro-Oncology, Epilepsy and other Neurological ailments. The Centre is equipped with advanced neuro-diagnostic services such as EMG, NCV, EEG and intra-operative neuromonitoring. It also oers flat panels C-Arm for the evaluation of a multitude of neurological conditions to provide accurate diagnosis and treatment of even the most complex cases. Our Neuro Critical Care Programme manages patients with life threatening neurological and neurosurgical critical illnesses.",
+      "content_p2": "The advanced Neurosurgical Centre oers surgical treatment for a wide variety of ailments such as Head Injuries & Trauma, Brain Tumours, Hydrocephalus, Arterio-venous Malformations and Aneurysms. The Centre has one of the most experienced teams of Interventional Neurosurgeons for immediate and potentially lifesaving procedures for stroke and related neurological emergencies.",
+      "content_p3": "The Minimally Invasive Neuro-spine Surgery Programme is one of the few in the country oering the most advanced solutions to neuro-spine patients. In addition, the Centre oers Minimal Invasive Treatment for disorders like Disc Prolapse, Spinal Tumours, Spinal Fixation and Pituitary Tumours as well."
+    },
+    {
+      "title": "INSTITUTE FOR BONE, JOINT REPLACEMENT ORTHOPAEDICS SPINE AND SPORTS MEDICINE",
+      "content_p1": "The Institute for Bone, Joint Replacement, Orthopaedics Spine and Sports Medicine has various sub-specialisations for the treatment of disorders of the musculo-skeletal system (muscles, bones & joints). The Hospital oers dedicated services for Trauma and General Orthopaedics, Spine Surgery, Sports Medicine and Joint Reconstruction including Minimally Invasive Surgery (MIS) for Total Knee Replacement, Robot Assisted Joint Replacement Surgery, Total Hip Replacement, Hip Resurfacing, Unicondylar (Partial) Knee Replacement as well as Replacement of Shoulder and Elbow joints.",
+      "content_p2": "The Institute regularly carries out Arthroscopic procedure for sports and other injuries, Limb Salvage Surgeries for Bone Tumours and Reconstruction Surgeries for Deformities.",
+      "content_p3": "The Institute has a dedicated team of the treatment of spinal ailments including: Minimal Invasive Spine Surgery for Disc Problems (Endoscopic / Microscopic / Microtubular Key Hole Surgeries); Robotic Navigation Guided Precision Spine Surgeries; Scoliosis / Kyphosis Correction Surgeries for Spinal Deformity; Spinal Tuberculosis Management; Spinal Bony Tumour Surgery; Spinal Pain Management; Vertebroplasty / Kyphoplasty for Spinal Fractures; Robotic / Navigation Guided Spine Surgery."
+    }
+  ]
+}
+,
+{
+  "chunk_id": "p18_chest_respiratory_plastic_cosmetic",
+  "page_number": 18,
+  "type": "multi_department_overview",
+  "departments": [
+    {
+      "title": "CHEST AND RESPIRATORY DISEASES CENTRE",
+      "content_p1": "The Centre for Chest and Respiratory Diseases is one of the most comprehensive units dealing with an entire range of respiratory conditions including Asthma and Allergic Diseases, Chronic Obstructive Pulmonary Disease (COPD), Lung Infections including Tuberculosis, Interstitial Lung Diseases, Pulmonary Hypertension. The Centre also has a state-of-the-art Sleep Lab to conduct sleep disorder studies, breathing and lung malignancies.",
+      "content_p2": "The Centre is committed to delivering outstanding best practice clinical care, outcome driven professional education and community outreach as well as translational research of international acclaim."
+    },
+    {
+      "title": "PLASTIC & COSMETIC SURGERY CENTRE",
+      "content_p1": "BLK-Max Centre for Plastic and Cosmetic Surgery is recognised for its vast range of treatments in all disciplines of Plastic Surgery.",
+      "content_p2": "The Centre’s team of experts are internationally recognised for their pioneering work in Aesthetic (Cosmetic) Surgery, Hair Restoration, Reconstructive Plastic Surgery, Hand and Microvascular Surgery, Cleft and Craniofacial Surgery.",
+      "content_p3": "The Centre has the fine distinction of being the first in the country with specialised tertiary care services available in all sub-disciplines of Plastic Surgery, along with dedicated infrastructure and specialists teams.",
+      "content_p4": "The Centre is staed with Physicians, Nurses, Physiotherapists, Critical Care Specialists and support personnel. Using the most advanced technology and treatment methods, the Centre works in synergy with the common goal of delivering quality care. The sta is well-trained in assisting patients and their families in handling the emotional trauma, and thereby enabling them to lead a normal life post surgery."
+    }
+  ]
+}
+,
+{
+  "chunk_id": "p19_renal_sciences_kidney_transplant",
+  "page_number": 19,
+  "type": "department_overview",
+  "title": "RENAL SCIENCES & KIDNEY TRANSPLANT CENTRE",
+  "content_p1": "BLK-Max Centre for Renal Sciences & Kidney Transplant has a dedicated unit with most the advanced dialysis machines, oering round-the-clock service with the facility for Continuous Renal Replacement Therapy (CRRT) for hemo-dynamically unstable patients and Continuous Ambulatory Peritoneal Dialysis. Isolation rooms dedicated to Hepatitis B & C patients are at par with global standards.",
+  "content_p2": "The Centre is equipped with latest diagnostic and therapeutic facilities like Uroflowmetry, Ultrasound, Doppler, Lithotripsy and Holmium Laser, etc. The Centre has dedicated suites for Endoscopic procedures ensuring quality treatment as well as complete privacy and comfortable surroundings.",
+  "kidney_transplant_title": "Kidney Transplant",
+  "kidney_transplant_content": "The Kidney Transplant programme at BLK-Max has become a recognised Centre of Excellence in the region in a very short span of time. Our globally renowned faculty has successfully carried out transplants in clinically dicult and extremely complex cases including Cadaver Transplants, Kidney Transplant in HIV positive patients and patients with high chances of rejection."
+}
+,
+{
+  "chunk_id": "p20_women_health_centre",
+  "page_number": 20,
+  "type": "department_overview",
+  "title": "WOMEN HEALTH CENTRE",
+  "content_p1": "BLK-Max Centre for Women Health is amongst the best in country with dedicated birthing suites equipped with telemetric foetal monitors to follow the progress of labour and provide a facility for painless delivery. The department has dedicated operating rooms for caesarean section in the same complex.",
+  "content_p2": "The department also oers Laparoscopic surgery for removal of tumours and cysts through key-hole incisions including high-end surgical solutions for the management of complex disorders like Double Uterus, Intra-uterine Fibroids and Adhesions, without incision or stitches. Super specialists in the field of Laparoscopic Gynaecology and Foetal Medicine routinely perform Intra-uterine Foetal procedures such as Correctional Surgeries and Foetal Reduction."
+}
+,
+{
+  "chunk_id": "p21_radiology_nuclear_medicine",
+  "page_number": 21,
+  "type": "multi_department_overview",
+  "departments": [
+    {
+      "title": "RADIOLOGY AND IMAGING",
+      "content_p1": "The Radiology and Imaging Institute provides state-of-the-art imaging services with quality reporting and instant availability. In order to deliver the most ecient and precise diagnostic services, BLK-Max Super Speciality Hospital has put in place the latest and cutting edge technology and infrastructure. A complete cardiac CT scan can be performed in less than five seconds. The MRI reduces scan time by half while providing far greater accuracy.",
+      "content_p2": "The Institute has installed state-of-the-art-technology like South Asia’s First Signa Artist MRI Wide Bore (70 cm) with Advanced Functional Imaging; South Asia’s First Revolution Frontier CT 256 Slice with Dual Energy & Spectral Imaging; CT Coronary Angiography with Plaque Characterisation; Advanced 3D / 4D Ultrasound Doppler with Elastography & Fusion Imaging; Digital Mammography; Interventional Radiology; DEXA Bone Densitometry; Digital Radiography and Digital Cine Fluoroscopy."
+    },
+    {
+      "title": "NUCLEAR MEDICINE",
+      "content_p1": "The Nuclear Medicine Department provides comprehensive diagnostic and therapeutic services under one roof with state-of-the-art dual head Gamma Camera interfaced with a Spect CT to provide accurate, High Resolution, 3 Dimensional functional images co-registered with patients anatomical data.",
+      "content_p2": "Various scans like thyroid, cardiac, renal, etc. can be performed in a short span of time. It also provides the facility for therapy of thyrotoxicosis, CA-thyroid and bone pain.",
+      "content_p3": "BLK-Max has installed an advanced PET CT that oers three distinct advantages of higher sensitivity, excellent quality high definition images and lower radiation doses. With the installation of the latest generation PET CT Scan machine, the Department has advanced capabilities of accurate diagnosis and therapeutics."
+    }
+  ]
+}
+,
+{
+  "chunk_id": "p22_image",
+  "page_number": 22,
+  "type": "full_page_image",
+  "description": "Image of a smiling male doctor with a clipboard, a woman and child next to him. No text content."
+}
+,
+{
+  "chunk_id": "p23_internal_medicine_general_surgery_other",
+  "page_number": 23,
+  "type": "multi_department_overview",
+  "departments": [
+    {
+      "title": "INTERNAL MEDICINE",
+      "content_p1": "The Department of Internal Medicine provides holistic approach to management of various disorders like Diabetes, Cardiac conditions, Obesity, High Blood Pressure and Vascular Diseases. In addition, the Department plays a pivotal role in providing need-based care by optimal utilisation of all medical and surgical super specialities in the comprehensive management of patients.",
+      "content_p2": "Well-equipped with state-of-the-art infrastructure and ultra-modern ICUs to deal with all kinds of medical conditions, the Department strives to oer various Internal Medicine related clinical services with patient-centric approach involving various super speciality team members."
+    },
+    {
+      "title": "GENERAL SURGERY",
+      "content_p1": "BLK-Max’s General Surgery Department has some of the most renowned surgeons in the region. The Hospital is privileged to have consultants with training in Laparoscopic surgery from renowned International Institutes and large teaching experience from reputed Government Institutions which are committed to provide ethical and evidence-based surgical options to patients.",
+      "content_p2": "The Department comprises of specialised units, providing round-the-clock emergency and OPD services. The Department is equipped with high definition Laparoscopic instruments and provides a wide variety of open and Laparoscopic procedures for abdominal surgeries related to gallbladder, appendix, spleen & intestines, etc, various types of hernias (inguinal, femoral, umbilical, incisional & hiatus, etc.), and emergency trauma management. Surgeries of salivary glands, thyroid, adrenal, breast, undescended testes, hydrocele, varicocele, varicose veins and anorectal disorders like Rectal Prolapse, Piles, Fistula, Fissure & Perianal Abscess are also routinely performed."
+    }
+  ],
+  "other_specialities_title": "OTHER SPECIALITIES",
+  "other_specialities": [
+    "Emergency Medicine",
+    "ENT & Cochlear Implant",
+    "Pain Medicine & Palliative Care",
+    "Psychiatry",
+    "Dental Surgery",
+    "Ophthalmology",
+    "Anaesthesiology and Pain Management",
+    "Laboratory Medicine & Blood Bank",
+    "Interventional Radiology",
+    "Ayurveda",
+    "Physiotherapy & Rehabilitation Centre",
+    "Preventive Health Check"
+  ]
+}
+,
+{
+  "chunk_id": "p24_cutting_edge_tech",
+  "page_number": 24,
+  "type": "technology_overview",
+  "title": "CUTTING EDGE TECHNOLOGY",
+  "content": "BLK-Max Super Speciality Hospital is a pioneer in the introduction of technology to provide patients with the highest standards in medical care. Examples are South Asia’s First Signa Artist MRI & South Asia’s First Revolution Frontier CT, India’s First Pain Free Computer Assisted Navigation Surgery for Joint Replacement, North India’s first 4th generation Da Vinci Xi Robotic System and the Electronic Health Record System. Our hospital is equipped with advanced medical equipments like state-of-the-art Cath labs, Robotics, OTs with HEPA, Nuclear Medicine, PET CT, Gama Camera, LINAC with Exactrac for Radiotherapy."
+}
+,
+{
+  "chunk_id": "p25_image",
+  "page_number": 25,
+  "type": "full_page_image",
+  "description": "Image of a patient undergoing a scan, BLK-MAX logo on the pillow. No text content."
+}
+,
+{
+  "chunk_id": "p26_image",
+  "page_number": 26,
+  "type": "full_page_image",
+  "description": "Image of an ACCURAY medical imaging machine with a patient. No text content."
+}
+,
+{
+  "chunk_id": "p27_technology_highlights",
+  "page_number": 27,
+  "type": "technology_list",
+  "technologies": [
+    {
+      "name": "TomoTherapy System",
+      "description": "Next generation Image-guided Intensity-Modulated Radiation Therapy; India’s first and most advanced system for Cancer treatment; Integrated CT Scanner; more precise and eective; 3D Image guidance; fewer side eects; optimal treatment"
+    },
+    {
+      "name": "PET CT Scan",
+      "description": "Latest generation PET CT Scan machine to aid accurate diagnosis and treatment of diseases"
+    },
+    {
+      "name": "Da Vinci XI Robotic System",
+      "description": "India’s first private hospital with Dual Console Surgical System for Cancer Surgeries, Liver Transplants, Kidney Transplants, Gastrointestinal Surgeries, Bariatric Surgeries, Urology Surgeries, Cardio-Thoracic Surgeries, Pediatrics Surgeries, General Surgeries, Gynaeecology Surgeries"
+    },
+    {
+      "name": "Robotic Joint Replacement",
+      "description": "Next-generation Robotic System for Joint Replacement"
+    },
+    {
+      "name": "Endoscopy Suites",
+      "description": "India’s first dedicated Endoscopy Suite for endoscopic ultrasound and other advanced endoscopic procedures like ERCP, Stenting, UGIE, Colonoscopy etc."
+    },
+    {
+      "name": "MRI",
+      "description": "Equipped with 1.5 Tesla volume MRI with the ability to generate 3D images, thereby reducing the acquisition time by half and increasing the comfort and convenience of the patients"
+    },
+    {
+      "name": "CT Scan",
+      "description": "128 Slice volume CT Scan capable of generating high-quality 3D images"
+    },
+    {
+      "name": "Cath Lab",
+      "description": "Flat panel combo Cath Lab with 3D reconstruction, DSA and Electrophysiological studies"
+    },
+    {
+      "name": "Bronchoscopy Suite",
+      "description": "Supported by the most modern equipment in a safe and convenient environment"
+    },
+    {
+      "name": "Nuclear Medicine",
+      "description": "First-of-its-kind dual head Spect CT, with variable angle gamma camera. This enables the doctors to trace physiological pathways early in the disease process in a non-invasive manner"
+    },
+    {
+      "name": "Laboratories",
+      "description": "One of the most well-equipped laboratories in NCR for the entire gamut of diagnostic services in Haematology, Biochemistry, Microbiology, Molecular Biology and Histopathology with Centres of Excellence for Flow Cytometry, Transplant and Immunology"
+    },
+    {
+      "name": "Blood Bank",
+      "description": "A state-of-the-art Blood Bank with facilities like Apheresis, Blood Component Separation and Stem Cell Harvesting. NAT (Nucleic Acid Testing) System- For screening of blood to ensure the safest possible blood is available for all patients. Blood Irradiator- First hospital in Delhi & NCR to have this facility for specially treated blood for Cancer and other patients"
+    },
+    {
+      "name": "Spine Robot",
+      "description": "Equipped with India’s first Integrated Robotic Navigation System for a minimally invasive & precise spinal surgery. It helps in reducing loss of blood, enables quicker recovery, and a shorter stay at the hospital while ensuring low radiation exposure."
+    }
+  ]
+}
+,
+{
+  "chunk_id": "p28_international_patient_services_intro",
+  "page_number": 28,
+  "type": "international_services_overview",
+  "title": "INTERNATIONAL PATIENT SERVICES",
+  "content": "At BLK-Max Super Speciality Hospital, we have a dedicated team for International Patient Services. Our well-trained team takes care of all clinical and administrative requirements of patients and their companions coming from overseas. A personal coordinator / case manager is assigned to each patient, and is responsible for taking care of all aspects of patients' visit to India, ensuring that they feel at home at BLK-Max. Our services are focused on meeting the special needs of all our patients and their families, before, during and after their visit."
+}
+,
+{
+  "chunk_id": "p29_image",
+  "page_number": 29,
+  "type": "full_page_image",
+  "description": "Image of a female medical professional assisting a male patient in a wheelchair. No text content."
+}
+,
+{
+  "chunk_id": "p30_international_patient_services_details",
+  "page_number": 30,
+  "type": "international_services_list",
+  "services": [
+    {
+      "title": "VIDEO CONSULTATION PRIOR TO YOUR VISIT",
+      "description": "We arrange for a video consultation with our senior doctors who assess your reports and discusses your treatment plan with you before you plan your visit to India."
+    },
+    {
+      "title": "SCHEDULING APPOINTMENT",
+      "description": "We oer complimentary opinion from our team of specialists on the basis of the initial reports shared by you. Accordingly, we will send you details of the cost of treatment and tentative plan as per the reports shared by you. Once you decide to take treatment at Max, we will schedule an appointment with our specialist."
+    },
+    {
+      "title": "VISA ARRANGEMENT",
+      "description": "The team assists in arranging visa to avail medical treatment by issuing an invitation letter to you and your companion. If you require extension of visa depending on the course of your treatment, our team will look assisting you accordingly. \n• Once your decision is final to travel to India for medical treatment, your passport details and that of your companion along with visa assistance letter is given to the Indian Embassy in your country."
+    },
+    {
+      "title": "SINGLE POINT OF CONTACT",
+      "description": "At Max, we will provide you one single point of contact who will help you right from the admission to discharge. The person will help you and your companion for all requirements like accommodation, shopping, interpreters, currency exchange, wire transfer, etc."
+    }
+  ]
+}
+,
+{
+  "chunk_id": "p31_international_patient_services_continued",
+  "page_number": 31,
+  "type": "international_services_list",
+  "services": [
+    {
+      "title": "TRAVEL ARRANGEMENT AND CONCIERGE SERVICES",
+      "description_intro": "After your appointment is scheduled and one point of contact has been assigned to you, it is time to make your travel arrangements. Our concierge services include:",
+      "items": [
+        "Airport pick up facility – Our International Patient Services (IPS) team provides transfer facility between the Airport and the Hospital/Hotel.",
+        "Accommodation - The team takes care of the arrangements for hotels/guest houses that may be required pre-admission and post discharge.",
+        "Car Hire Facility – Car hire facility is available for your companion on chargeable basis for local sightseeing or any other requirement.",
+        "Calling Card Facility – A calling card can be provided to you on chargeable basis by the IPS team."
+      ]
+    },
+    {
+      "title": "INTERPRETER SERVICES",
+      "description": "If you do not speak English or need any help with language services, we will provide an interpreter for you at no additional cost. We have both male and female interpreters who are trained in medical terminologies to be able to understand doctors and convey better to you in your language."
+    },
+    {
+      "title": "FINANCIAL SERVICES",
+      "description_intro": "The dedicated relationship manager will help you with your financial and payment arrangements.",
+      "items": [
+        "The Currency exchange and wire transfer services are available within the hospital services.",
+        "Payment can be made using health insurance, self-payment or through embassy sponsorship."
+      ]
+    },
+    {
+      "title": "PHONE/TV/INTERNET CONNECTIVITY",
+      "description_p1": "Internet for laptop, phone facilities are available in the hospital on chargeable basis. Each bed has an individual telephone line you can use to contact the sta in the hospital, as well as your family and/or friends, and they can call you back. Each room is equipped with a TV set.",
+      "description_p2": "Internet Dongle and SIM cards are easily procurable. The International Patient Services team would be able to assist to get internet access."
+    },
+    {
+      "title": "SPECIAL FOOD AND BEVERAGES/ RELIGIOUS FOODS",
+      "description_p1": "We have a wide range of delicious food options available for you, your companions and visitors. Food is available 24x7 and caters to a wide range of palates. Your dietary plan during your stay complies with the prescribed food by your dietician after your complete assessment, taking into consideration the physician’s recommendations.",
+      "description_p2": "We ensure that you get the combination of taste and nutrition along with the food of your choice. Your cultural and religious beliefs and convictions are also taken into consideration while preparing and serving food. Halal Food is also served."
+    },
+    {
+      "title": "SERVICES DURING AND AFTER TREATMENT",
+      "items": [
+        "Regular updates on the patient’s progress",
+        "Conference call services",
+        "Post discharge query handling"
+      ]
+    }
+  ]
+}
+,
+
+{
+  "chunk_id": "p32_image",
+  "page_number": 32,
+  "type": "full_page_image",
+  "description": "Image of a male patient in a hospital gown. No text content."
+}
+,
+{
+  "chunk_id": "p33_patient_testimonials_1",
+  "page_number": 33,
+  "type": "patient_testimonials",
+  "title": "WHAT OUR PATIENTS HAVE TO SAY ABOUT US",
+  "testimonials": [
+    {
+      "quote": "I had a very good experience with the kidney doctors. I had experienced a very good and successful surgery at BLK-Max Hospital. Special thanks should go to Dr. Aditya Pradhan, Dr. Rana, Dr. Sunny Goel, Dr. Hanish amd Dr. Anand Vyas. Let me also thank Ms Reena Gofia for her assistance during my consultations. I really felt at home with this team of Doctors and they exceptionally assisted me. Keep up your good and professional work ethics. May God continue to bless you more. I will not hesitate to recommend BLK-Max Hospital to all my relatives and friends from Malawi.",
+      "patient_name": "Chrissie Mahuka",
+      "patient_origin": "Malawi"
+    },
+    {
+      "quote": "I am Fetiya Datenigo from Ethiopia. I was suering with brain tumor with Hydrocephalus, I was very weak when I came to BLK-Max Super Speciality Hospital for my surgery with my sister. We met Dr. Anil Kansal and his team took very good care of me. They explained me everything about my condition and the surgery they were going to perform on me. I was confident enough that Dr. Kansal will do surgery in the best possible way and I will be perfectly fine. My surgery went well and I am extremely happy now and would like to say many thanks to Dr. Kansal and his team, sta members who took very good care of me.",
+      "patient_name": "Fetiya Mwalongo",
+      "patient_origin": "Ethiopia"
+    }
+  ]
+}
+,
+{
+  "chunk_id": "p34_patient_testimonials_2",
+  "page_number": 34,
+  "type": "patient_testimonials",
+  "testimonials": [
+    {
+      "quote": "My name is Festo Mwalongo, came to BLK-Max with my father Gabriel Mwalongo towards the end of August for his medical attention under Dr. Aditya Pradhan. We came from Tanzania for a specialized treatment for my father. He got the best treatment under the supervision of Dr. Pradhan and he is doing much better now. We are thankful to the entire sta of the hospital, nursing, International lounge sta and other supporting sta for taking care of both of us. We felt BLK-Max Hospital is our home away from our home. Everything was well organized and our entire hospital duration was very smooth. Special thanks to Amy, International Lounge sta, you made our stay at BLK-Max so memorable. Me and my father cannot repay back for your super class services, but we will have BLK-Max Hospital in our prayers.",
+      "patient_name": "Festo Mwalongo",
+      "patient_origin": "Tanzania"
+    },
+    {
+      "quote": "I had been suering from back pain since 2007. After visiting multiple hospitals and doctors, I booked a consultation with Dr. Puneet Girdhar, a spine specilist at BLK-Max Hospital, Delhi and I couldn’t be happier. The team of doctors at BLK-Max Hospital assessed my case carefully and suggested me a treatment plan. Their international team took care of all my requirements when I was admited at the hospital and even after I got discharged from there. Today after many years, I am enjoying a pain-free life. I cannot thank enough the team of doctors, nurses and sta of their international team for taking very good care of me. God bless you all.",
+      "patient_name": "Harriet J Jagne",
+      "patient_origin": "Gambia"
+    }
+  ]
+}
+,
+
+{
+  "chunk_id": "p35_image",
+  "page_number": 35,
+  "type": "full_page_image",
+  "description": "Blue gradient background. No text content."
+}
+,
+
+{
+  "chunk_id": "p36_contact_info",
+  "page_number": 36,
+  "type": "contact_information",
+  "hospital_name": "BLK-Max Super Speciality Hospital",
+  "reach_us_title": "For more information you can reach us at",
+  "website": "www.blkmaxhospital.com",
+  "email": "queryteam@blkhospital.com",
+  "address": "Pusa Road, New Delhi- 110005",
+  "helpline_24hr": "+91-11-30403040",
+  "phone": "+91-88007 91529"
+}
+]
