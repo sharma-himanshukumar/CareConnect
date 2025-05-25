@@ -1,0 +1,366 @@
+[
+{
+  "chunk_id": "p1_doc_title",
+  "page_number": 1,
+  "type": "document_title",
+  "title": "SCHEDULE OF CHARGES – JANUARY 2024 DHARAMSHILA NARAYANA HOSPITAL, DELHI (EFFECTIVE FROM 01ST JAN 2024)",
+  "content": "SCHEDULE OF CHARGES – JANUARY 2024\nDHARAMSHILA NARAYANA HOSPITAL, DELHI \n(EFFECTIVE FROM 01ST JAN 2024)"
+},
+{
+  "chunk_id": "p2_about_hospital",
+  "page_number": 2,
+  "type": "section_text",
+  "title": "ABOUT THE HOSPITAL",
+  "content": "For over two decades, Dharamshila Narayana Superspeciality Hospital \n(earlier known as Dharamshila Hospital And Research Centre) at \nVasundhara Enclave in Delhi-NCR region was at the forefront of \ncancertreatment. Few Pioneering steps into the credit of Dharamshila \nNarayna Superspeciality Hospital is North India’s First Cancer Hospital \ncommissioned in 1994 with 200 beds, with the same objective of \nmaking Cancer Care Available, Accessible and Aordable. The Hospital \nis the rst cancer hospital in India to get NABH Accreditation in 2008 \nfor providing quality healthcare services. Our Laboratory Services are \nalso accredited by National Accreditation Board for Testing and \nCalibration Laboratories (NABL). Dharamshila Narayana Hospital is the \nrst hospital in India, given accreditation by National Board of \nExamination (NBE) for the Diplomate National Board (DNB) \nProgramme in medical in 2001 and surgical & radiation oncology in \n2004 respectively. Dharamshila Narayana is the rst hospital of North \nIndia to start Post Basic Diploma in Oncology Nursing (PBDON) in \n2010. \nOn 1st April 2017, the unit began its partnership with Narayana \nHealth, one of India's largest network of hospitals and heart centres \nand started operations as Dharamshila Narayana Superspeciality \nHospital. \nDharamshila Narayana Superspeciality Hospital is now a \nState-of-the-Art Multi Superspeciality Hospital with world-class \nmedical infrastructure and an expert team of highly skilled doctors \nproviding comprehensive medical care in more than 30 streams of \nclinical specialities including Bone Marrow Transplants, Cardiac \nSciences, Gastro sciences, Liver Transplants Oncology, Orthopaedics, \nNeurosciences, Nephrology & Kidney Transplant, Urology. \nWith a rich legacy of upholding trust and providing innovative \ntreatment approaches, Dharamshila Narayana Superspeciality \nHospital has become one of the most preferred destinations for \nmedical treatment in India."
+},
+{
+  "chunk_id": "p3_services",
+  "page_number": 3,
+  "type": "list_section",
+  "title": "SERVICES",
+  "items": [
+    "Outpatient & Inpatient",
+    "24/7 Emergency & Trauma Services",
+    "Pharmacy",
+    "Blood Bank",
+    "NABL Accredited Laboratory",
+    "Radiology",
+    "Cardiac Rehabilitation",
+    "Diet Counselling & Life Style Modification",
+    "Clinical Research",
+    "Physiotherapy Clinic",
+    "Ambulance Facility"
+  ]
+}
+,
+
+{
+  "chunk_id": "p3_laboratory_services",
+  "page_number": 3,
+  "type": "list_section",
+  "title": "LABORATORY SERVICES",
+  "items": [
+    "Biochemistry",
+    "Histopathology",
+    "Microbiology",
+    "Haematology",
+    "Clinical Pathology",
+    "Serology"
+  ]
+}
+,
+
+{
+  "chunk_id": "p4_facilities",
+  "page_number": 4,
+  "type": "list_section",
+  "title": "FACILITIES",
+  "items": [
+    "7 State-of-the-art Operation Theaters with laminar air flow | 42-bedded ICU |19-bedded HDU",
+    "Transplant Programmes - Bone Marrow Transplant, Kidney Transplant & Liver Transplant",
+    "State-of-the-art Cath Lab for Neuro & Cardiac Procedures",
+    "21-bedded BMT Centre with BMT Research Lab and Transfusion Services,",
+    "22-bedded high-end dialysis unit, one of the largest dialysis units in the region",
+    "Facilities of PET CT Scan, MRI, CT Scan, Dexa Scan, Mammography, Ultrasound, etc..",
+    "100% Image Guided Radiation Therapy Linear Accelerator for Fast & Accurate Treatment",
+    "24X7 Emergency & Trauma Care, Pharmacy Services, Blood Bank, Radiology Services",
+    "Triple Energy Linear Accelerators with VMAT technology, Brachytherapy Facility",
+    "Dedicated Endoscopy & Bronchoscopy Unit"
+  ]
+}
+,
+
+{
+  "chunk_id": "p5_specialities",
+  "page_number": 5,
+  "type": "list_section",
+  "title": "SPECIALITIES",
+  "items": [
+    "Cardiac Sciences",
+    "Gastro Sciences",
+    "Renal Sciences",
+    "Comprehensive Cancer Care",
+    "Neurosciences",
+    "Pulmonology",
+    "Interventional Radiology",
+    "Orthopaedics",
+    "Internal Medicine",
+    "Laser, Laparoscopic & General Surgery",
+    "Emergency Medicine & Critical Care",
+    "Transplant Programme (BMT, KTP & LTP)"
+  ]
+}
+,
+
+{
+  "chunk_id": "p6_billing_guidelines_registration_fee",
+  "page_number": 6,
+  "type": "billing_guideline_item",
+  "main_title": "BILLING GUIDELINES",
+  "sub_title": "Hospital Registration Fee",
+  "content": "Rs. 200/-"
+}
+,
+
+{
+  "chunk_id": "p6_billing_guidelines_opd_charges",
+  "page_number": 6,
+  "type": "billing_guideline_item",
+  "main_title": "BILLING GUIDELINES",
+  "sub_title": "OPD Consultation Charges",
+  "content": [
+    "One follow-up OPD consultation would be 100% discount within 6 days of a surgical/Medical case.",
+    "If the patient admitted after 12 PM, only one visit to be charged for primary consultant. Only two IP consultation is applicable for primary consultant."
+  ]
+}
+,
+
+{
+  "chunk_id": "p6_billing_guidelines_bed_charges",
+  "page_number": 6,
+  "type": "billing_guideline_item",
+  "main_title": "BILLING GUIDELINES",
+  "sub_title": "Bed Charges",
+  "content": [
+    "Charges shall be levied as per rates applicable. Room rent includes laundry charges, patient’s diet (as prescribed) and housekeeping services only.",
+    "Nursing charges, Resident medical charges (RMO) and dietician charges would be charged extra.",
+    "The billing starts from the time of admission.",
+    "Procedures, Surgeries, Packages & Doctor Visit, etc. shall be charged according to the respective room category opted for as mentioned. A stay beyond 8 hrs shall attract full day room rent. 24 hrs billing cycle on room rent shall be applicable."
+  ]
+}
+,
+
+{
+  "chunk_id": "p6_billing_guidelines_bed_transfer",
+  "page_number": 6,
+  "type": "billing_guideline_item",
+  "main_title": "BILLING GUIDELINES",
+  "sub_title": "Bed Transfer",
+  "content": [
+    "In the event of a bed transfer during the course of treatment, the higher category bed charges shall be applicable from the day of transfer.",
+    "In the event of a bed transfer from the lower bed category to higher bed category during the course of treatment, the Surgery/packages would be charged as per higher bed category.",
+    "For all procedures, surgeries, diagnostic services, and all other services rendered while the patient is in the wards, billing is always done at the current bed category charges.",
+    "Overnight stay shall be charge as per higher room category."
+  ]
+}
+,
+
+{
+  "chunk_id": "p7_billing_guidelines_critical_care",
+  "page_number": 7,
+  "type": "billing_guideline_item",
+  "main_title": "BILLING GUIDELINES",
+  "sub_title": "Admission Directly into Critical Care",
+  "content": [
+    "In case patient is admitted to HDU/CCA bed directly, the charges for procedure/surgeries shall be as per the charges applicable to the semi-private room.",
+    "Charges for any services performed in HDU / CCA will be equivalent to semi-private room."
+  ]
+}
+,
+
+{
+  "chunk_id": "p7_billing_guidelines_ot_anaesthesia",
+  "page_number": 7,
+  "type": "billing_guideline_item",
+  "main_title": "BILLING GUIDELINES",
+  "sub_title": "Billing of OT & Anaesthesia Services Procedure / Surgery Charges",
+  "content": [
+    "The charges for any Procedure/Surgery shall be according to the Schedule of Charges.",
+    "Operation charges (100%) / Cath Lab Charges (40%) and Anaesthesia Charges (35%) would be charged over and above procedure charges.",
+    "Assistant surgeon charges (30%) and any instrument charges will be charged extra (if used).",
+    "The Charges for Procedures includes Surgeon Fee only.",
+    "For all packages/procedures/surgery/operations, the medicines/consumables/implants are charged extra separately.",
+    "Operations and Procedures done during emergency and hospital holidays would be charged at 25% extra.",
+    "High risk surgeries will be charged at 15% more than the usual charges."
+  ]
+}
+,
+
+{
+  "chunk_id": "p7_billing_guidelines_food_beverage",
+  "page_number": 7,
+  "type": "billing_guideline_item",
+  "main_title": "BILLING GUIDELINES",
+  "sub_title": "Food & Beverage Services",
+  "content": "The Room charges are inclusive of Diet charges for In-Patient."
+}
+,
+
+{
+  "chunk_id": "p8_billing_ot_two_surgeries",
+  "page_number": 8,
+  "type": "billing_guideline_item",
+  "main_title": "BILLING GUIDELINES FOR OT",
+  "sub_title": "Two Surgeries/ Procedures in single sitting, following billing policy shall be applicable",
+  "content": [
+    "Higher value surgery shall be considered as principal surgery & shall be charged 100% of procedure Charges/ package charges.",
+    "Subsequent surgery with Lower value shall be considered as minor surgery.",
+    "Standard inclusions shall remain as per principal surgery.",
+    "Shall be subject to differential pricing as per room category."
+  ]
+}
+,
+
+{
+  "chunk_id": "p8_billing_ot_multiple_surgery_table",
+  "page_number": 8,
+  "type": "table",
+  "main_title": "BILLING GUIDELINES FOR OT",
+  "sub_title": "Policy For Multiple-Surgery Billing (same sitting): For surgeries billed as standalone services (open billing):",
+  "description": "The following is the policy for billing when more than one surgical service is rendered to a patient in the same sitting:",
+  "headers": ["Department Type", "Incision Type", "Surgery 1 (S1) Billing", "Surgery 2 (S2) Billing"],
+  "rows": [
+    {"Department Type": "SINGLE DEPARTMENT", "Incision Type": "Single Incision", "Surgery 1 (S1) Billing": "100% of the rack rate", "Surgery 2 (S2) Billing": "75% of the rack rate"},
+    {"Department Type": "SINGLE DEPARTMENT", "Incision Type": "Multiple Incision", "Surgery 1 (S1) Billing": "100% of the rack rate", "Surgery 2 (S2) Billing": "75% of the rack rate"},
+    {"Department Type": "MULTIPLE DEPARTMENT", "Incision Type": "Single Incision", "Surgery 1 (S1) Billing": "100% of the rack rate", "Surgery 2 (S2) Billing": "100% of the rack rate"},
+    {"Department Type": "MULTIPLE DEPARTMENT", "Incision Type": "Multiple Incision", "Surgery 1 (S1) Billing": "100% of the rack rate", "Surgery 2 (S2) Billing": "100% of the rack rate"}
+  ]
+}
+,
+
+{
+  "chunk_id": "p9_infrastructure",
+  "page_number": 9,
+  "type": "list_section",
+  "title": "STATE-OF-THE-ART INFRASTRUCTURE",
+  "items": [
+    "Out Patient Department (OPD)",
+    "Health Check Package Lobby",
+    "Cath Lab",
+    "Dialysis Unit"
+  ]
+}
+,
+
+{
+  "chunk_id": "p10_opd_emergency_fee",
+  "page_number": 10,
+  "type": "table",
+  "title": "OPD AND EMERGENCY CONSULTATION FEE",
+  "headers": ["SERVICE CODE", "CONSULTATION TYPE", "SERVICE", "CHARGES"],
+  "rows": [
+    {"SERVICE CODE": "SVC012660", "CONSULTATION TYPE": "EMERGENCY WARD CHARGES (PER HOUR)", "SERVICE": "CONSULTATION", "CHARGES": "500"},
+    {"SERVICE CODE": "SVC000001", "CONSULTATION TYPE": "CONSULTATION - FIRST VISIT", "SERVICE": "CONSULTATION", "CHARGES": "1200"},
+    {"SERVICE CODE": "SVC000002", "CONSULTATION TYPE": "CONSULTATION - REVISIT", "SERVICE": "CONSULTATION", "CHARGES": "1200"},
+    {"SERVICE CODE": "SVC012368", "CONSULTATION TYPE": "REMOTE MEDICAL CONSULTATION", "SERVICE": "CONSULTATION", "CHARGES": "1200"}
+  ]
+}
+,
+
+{
+  "chunk_id": "p10_specialized_opd_fee",
+  "page_number": 10,
+  "type": "table",
+  "title": "SPECIALIZED OPD CONSULTATION FEE",
+  "headers": ["SL. NO", "CONSULTANT NAME", "EMPLOYEE ID", "OPD"],
+  "rows": [
+    {"SL. NO": "1", "CONSULTANT NAME": "DR. SANDEEP GOVIL", "EMPLOYEE ID": "110094", "OPD": "1200"},
+    {"SL. NO": "2", "CONSULTANT NAME": "DR ASHISH SRIVASTAVA", "EMPLOYEE ID": "110106", "OPD": "2000"},
+    {"SL. NO": "3", "CONSULTANT NAME": "DR AMIT SRIVASTAVA", "EMPLOYEE ID": "110124", "OPD": "1200"},
+    {"SL. NO": "4", "CONSULTANT NAME": "DR SARITA RANI JAISWAL", "EMPLOYEE ID": "110088", "OPD": "1200"},
+    {"SL. NO": "5", "CONSULTANT NAME": "DR SUPARNO", "EMPLOYEE ID": "110087", "OPD": "1200"},
+    {"SL. NO": "6", "CONSULTANT NAME": "DR RANDEEP SINGH", "EMPLOYEE ID": "110125", "OPD": "1250"},
+    {"SL. NO": "7", "CONSULTANT NAME": "MS PAYAL SHARMA", "EMPLOYEE ID": "367320", "OPD": "600"},
+    {"SL. NO": "8", "CONSULTANT NAME": "DR. PRAVEEN ROY", "EMPLOYEE ID": "110137", "OPD": "1200"}
+  ]
+}
+,
+
+{
+  "chunk_id": "p10_ip_consultations",
+  "page_number": 10,
+  "type": "table",
+  "title": "IP CONSULTATIONS",
+  "headers": ["CODE", "NAME", "CATEGORY", "OPD", "GENERAL", "SEMI ECONOMY", "SEMIPRIVATE", "PRIVATE", "DELUXE", "SUITE"],
+  "rows": [
+    {"CODE": "SVC000697", "NAME": "CONSULTATION - IP", "CATEGORY": "CONSULTATION", "OPD": "0", "GENERAL": "1400", "SEMI ECONOMY": "1500", "SEMIPRIVATE": "1600", "PRIVATE": "1800", "DELUXE": "2000", "SUITE": "2200"},
+    {"CODE": "SVC000698", "NAME": "CROSS CONSULTATION - IP", "CATEGORY": "CONSULTATION", "OPD": "0", "GENERAL": "1400", "SEMI ECONOMY": "1500", "SEMIPRIVATE": "1600", "PRIVATE": "1800", "DELUXE": "2000", "SUITE": "2200"}
+  ]
+}
+,
+
+{
+  "chunk_id": "p11_bed_charges",
+  "page_number": 11,
+  "type": "table",
+  "title": "BED CHARGES",
+  "headers": ["CODE", "NAME", "CATEGORY", "OPD", "GENERAL", "SEMI ECONOMY", "SEMIPRIVATE", "PRIVATE", "DELUXE", "SUITE", "HDU", "CCA"],
+  "rows": [
+    {"CODE": "SVC000005", "NAME": "BED CHARGES - WARD", "CATEGORY": "BED CHARGES", "OPD": "0", "GENERAL": "6000", "SEMI ECONOMY": "6300", "SEMIPRIVATE": "8000", "PRIVATE": "11500", "DELUXE": "14500", "SUITE": "15500", "HDU": "0", "CCA": "0"},
+    {"CODE": "SVC000004", "NAME": "BED CHARGES - CRITICAL CARE AREA", "CATEGORY": "BED CHARGES", "OPD": "0", "GENERAL": "0", "SEMI ECONOMY": "0", "SEMIPRIVATE": "0", "PRIVATE": "0", "DELUXE": "0", "SUITE": "0", "HDU": "0", "CCA": "13500"},
+    {"CODE": "SVC000147", "NAME": "BED CHARGES - DAY CARE - UPTO 12 HOURS", "CATEGORY": "BED CHARGES", "OPD": "0", "GENERAL": "5500", "SEMI ECONOMY": "0", "SEMIPRIVATE": "0", "PRIVATE": "8500", "DELUXE": "0", "SUITE": "0", "HDU": "0", "CCA": "0"},
+    {"CODE": "SVC000146", "NAME": "BED CHARGES - DAY CARE - UPTO 6 HOURS", "CATEGORY": "BED CHARGES", "OPD": "0", "GENERAL": "4000", "SEMI ECONOMY": "0", "SEMIPRIVATE": "0", "PRIVATE": "6500", "DELUXE": "0", "SUITE": "0", "HDU": "0", "CCA": "0"},
+    {"CODE": "SVC000060", "NAME": "BED CHARGES - HDU", "CATEGORY": "BED CHARGES", "OPD": "0", "GENERAL": "0", "SEMI ECONOMY": "0", "SEMIPRIVATE": "0", "PRIVATE": "0", "DELUXE": "0", "SUITE": "0", "HDU": "11000", "CCA": "0"},
+    {"CODE": "SVC000128", "NAME": "EMERGENCY BED CHARGES-1ST & 2ND HR", "CATEGORY": "BED CHARGES", "OPD": "500", "GENERAL": "0", "SEMI ECONOMY": "0", "SEMIPRIVATE": "0", "PRIVATE": "0", "DELUXE": "0", "SUITE": "0", "HDU": "0", "CCA": "0"}
+  ]
+}
+,
+{
+  "chunk_id": "p12_schedule_of_charges",
+  "page_number": 12,
+  "type": "table",
+  "title": "SCHEDULE OF CHARGES",
+  "headers": ["SERVICE_CODE", "SERVICE_NAME", "CATEGORY", "OPD", "GENERAL", "SEMI ECONOMY", "SEMIPRIVATE", "PRIVATE", "DELUXE", "SUITE"],
+  "rows": [
+    {"SERVICE_CODE": "SVC000192", "SERVICE_NAME": "ACLS-CHARGE PER ADDITIONAL GDA", "CATEGORY": "ADMINISTRATIVE", "OPD": "600", "GENERAL": "", "SEMI ECONOMY": "", "SEMIPRIVATE": "", "PRIVATE": "", "DELUXE": "", "SUITE": ""},
+    {"SERVICE_CODE": "SVC000023", "SERVICE_NAME": "AMBULANCE ADVANCED LIFE SUPPORT - FIRST 10 KMS", "CATEGORY": "ADMINISTRATIVE", "OPD": "2400", "GENERAL": "", "SEMI ECONOMY": "", "SEMIPRIVATE": "", "PRIVATE": "", "DELUXE": "", "SUITE": ""},
+    {"SERVICE_CODE": "SVC000105", "SERVICE_NAME": "AMBULANCE ADVANCED LIFE SUPPORT - FIRST 5 KMS", "CATEGORY": "ADMINISTRATIVE", "OPD": "2000", "GENERAL": "", "SEMI ECONOMY": "", "SEMIPRIVATE": "", "PRIVATE": "", "DELUXE": "", "SUITE": ""},
+    {"SERVICE_CODE": "SVC000024", "SERVICE_NAME": "AMBULANCE ADVANCED LIFE SUPPORT - PER ADDNL KM", "CATEGORY": "ADMINISTRATIVE", "OPD": "100", "GENERAL": "", "SEMI ECONOMY": "", "SEMIPRIVATE": "", "PRIVATE": "", "DELUXE": "", "SUITE": ""},
+    {"SERVICE_CODE": "SVC000019", "SERVICE_NAME": "AMBULANCE BASIC LIFE SUPPORT - FIRST 10 KMS", "CATEGORY": "ADMINISTRATIVE", "OPD": "600", "GENERAL": "", "SEMI ECONOMY": "", "SEMIPRIVATE": "", "PRIVATE": "", "DELUXE": "", "SUITE": ""},
+    {"SERVICE_CODE": "SVC000104", "SERVICE_NAME": "AMBULANCE BASIC LIFE SUPPORT - FIRST 5 KMS", "CATEGORY": "ADMINISTRATIVE", "OPD": "500", "GENERAL": "", "SEMI ECONOMY": "", "SEMIPRIVATE": "", "PRIVATE": "", "DELUXE": "", "SUITE": ""},
+    {"SERVICE_CODE": "SVC000020", "SERVICE_NAME": "AMBULANCE BASIC LIFE SUPPORT - PER ADDNL KM", "CATEGORY": "ADMINISTRATIVE", "OPD": "40", "GENERAL": "", "SEMI ECONOMY": "", "SEMIPRIVATE": "", "PRIVATE": "", "DELUXE": "", "SUITE": ""},
+    {"SERVICE_CODE": "SVC000194", "SERVICE_NAME": "BLS-CHARGE PER ADDITIONAL GDA", "CATEGORY": "ADMINISTRATIVE", "OPD": "120", "GENERAL": "", "SEMI ECONOMY": "", "SEMIPRIVATE": "", "PRIVATE": "", "DELUXE": "", "SUITE": ""},
+    {"SERVICE_CODE": "SVC000113", "SERVICE_NAME": "CONSULTATION- DIETITIAN", "CATEGORY": "ADMINISTRATIVE", "OPD": "600", "GENERAL": "620", "SEMI ECONOMY": "860", "SEMIPRIVATE": "960", "PRIVATE": "1080", "DELUXE": "1200", "SUITE": "1350"},
+    {"SERVICE_CODE": "SVC008196", "SERVICE_NAME": "COUNSELING FEE", "CATEGORY": "ADMINISTRATIVE", "OPD": "740", "GENERAL": "770", "SEMI ECONOMY": "1070", "SEMIPRIVATE": "1180", "PRIVATE": "1340", "DELUXE": "1480", "SUITE": "1670"},
+    {"SERVICE_CODE": "SVC000083", "SERVICE_NAME": "DRESS CHARGES", "CATEGORY": "ADMINISTRATIVE", "OPD": "1000", "GENERAL": "1000", "SEMI ECONOMY": "1000", "SEMIPRIVATE": "1000", "PRIVATE": "1000", "DELUXE": "1000", "SUITE": "1000"},
+    {"SERVICE_CODE": "SVC000144", "SERVICE_NAME": "GOLD - SENIOR CITIZEN_GST", "CATEGORY": "ADMINISTRATIVE", "OPD": "660", "GENERAL": "0", "SEMI ECONOMY": "0", "SEMIPRIVATE": "0", "PRIVATE": "0", "DELUXE": "0", "SUITE": "0"},
+    {"SERVICE_CODE": "SVC000100", "SERVICE_NAME": "MEDICAL RECORD CHARGES", "CATEGORY": "ADMINISTRATIVE", "OPD": "550", "GENERAL": "570", "SEMI ECONOMY": "790", "SEMIPRIVATE": "890", "PRIVATE": "990", "DELUXE": "1100", "SUITE": "1240"},
+    {"SERVICE_CODE": "SVC009149", "SERVICE_NAME": "MRI FILM", "CATEGORY": "ADMINISTRATIVE", "OPD": "330", "GENERAL": "340", "SEMI ECONOMY": "470", "SEMIPRIVATE": "530", "PRIVATE": "600", "DELUXE": "660", "SUITE": "740"},
+    {"SERVICE_CODE": "SVC000705", "SERVICE_NAME": "NURSING CHARGE", "CATEGORY": "ADMINISTRATIVE", "OPD": "0", "GENERAL": "600", "SEMI ECONOMY": "600", "SEMIPRIVATE": "600", "PRIVATE": "600", "DELUXE": "600", "SUITE": "600"},
+    {"SERVICE_CODE": "SVC012970", "SERVICE_NAME": "OUTSIDE C D DOWNLOAD CHARGE", "CATEGORY": "ADMINISTRATIVE", "OPD": "330", "GENERAL": "330", "SEMI ECONOMY": "330", "SEMIPRIVATE": "330", "PRIVATE": "330", "DELUXE": "330", "SUITE": "330"},
+    {"SERVICE_CODE": "SVC000145", "SERVICE_NAME": "PLATINUM - PALTINUM CARD_GST", "CATEGORY": "ADMINISTRATIVE", "OPD": "1100", "GENERAL": "0", "SEMI ECONOMY": "0", "SEMIPRIVATE": "0", "PRIVATE": "0", "DELUXE": "0", "SUITE": "0"},
+    {"SERVICE_CODE": "SVC013336", "SERVICE_NAME": "RMO CHARGE", "CATEGORY": "ADMINISTRATIVE", "OPD": "0", "GENERAL": "700", "SEMI ECONOMY": "700", "SEMIPRIVATE": "700", "PRIVATE": "700", "DELUXE": "700", "SUITE": "700"},
+    {"SERVICE_CODE": "SVC000143", "SERVICE_NAME": "SILVER - FAMILY CARD_GST", "CATEGORY": "ADMINISTRATIVE", "OPD": "550", "GENERAL": "0", "SEMI ECONOMY": "0", "SEMIPRIVATE": "0", "PRIVATE": "0", "DELUXE": "0", "SUITE": "0"},
+    {"SERVICE_CODE": "SVC000793", "SERVICE_NAME": "SPECIAL NURSING CARE CHARGES", "CATEGORY": "ADMINISTRATIVE", "OPD": "1580", "GENERAL": "1850", "SEMI ECONOMY": "2270", "SEMIPRIVATE": "2530", "PRIVATE": "2850", "DELUXE": "3160", "SUITE": "3560"},
+    {"SERVICE_CODE": "SVC000040", "SERVICE_NAME": "STAY - EXTRA ATTENDER_GST", "CATEGORY": "ADMINISTRATIVE", "OPD": "1700", "GENERAL": "2070", "SEMI ECONOMY": "2270", "SEMIPRIVATE": "2570", "PRIVATE": "2690", "DELUXE": "2800", "SUITE": "3000"},
+    {"SERVICE_CODE": "SVC008203", "SERVICE_NAME": "STRESS MANAGEMENT TRAINING", "CATEGORY": "ADMINISTRATIVE", "OPD": "740", "GENERAL": "870", "SEMI ECONOMY": "1070", "SEMIPRIVATE": "1180", "PRIVATE": "1340", "DELUXE": "1480", "SUITE": "1670"},
+    {"SERVICE_CODE": "SVC000603", "SERVICE_NAME": "WARMER", "CATEGORY": "ADMINISTRATIVE", "OPD": "420", "GENERAL": "440", "SEMI ECONOMY": "610", "SEMIPRIVATE": "670", "PRIVATE": "760", "DELUXE": "840", "SUITE": "950"},
+    {"SERVICE_CODE": "SVC008666", "SERVICE_NAME": "XRAY SINGLE FILM", "CATEGORY": "ADMINISTRATIVE", "OPD": "330", "GENERAL": "340", "SEMI ECONOMY": "470", "SEMIPRIVATE": "530", "PRIVATE": "600", "DELUXE": "660", "SUITE": "740"},
+    {"SERVICE_CODE": "SVC009193", "SERVICE_NAME": "CD CHARGES", "CATEGORY": "ADMINISTRATIVE", "OPD": "400", "GENERAL": "410", "SEMI ECONOMY": "570", "SEMIPRIVATE": "630", "PRIVATE": "710", "DELUXE": "790", "SUITE": "890"},
+    {"SERVICE_CODE": "SVC013364", "SERVICE_NAME": "COVID 19_VACCINE CHARGES", "CATEGORY": "ADMINISTRATIVE", "OPD": "650", "GENERAL": "0", "SEMI ECONOMY": "0", "SEMIPRIVATE": "0", "PRIVATE": "0", "DELUXE": "0", "SUITE": "0"}
+  ]
+}
+,
+
+{
+  "chunk_id": "p82_83_all_inclusive_packages",
+  "page_number": "82-83",
+  "type": "table",
+  "title": "ALL INCLUSIVE PACKAGES",
+  "headers": ["PACKAGE CODE", "SERVICE NAME", "GENERAL", "SEMIPRIVATE ECONOMY", "SEMIPRIVATE", "PRIVATE", "DELUXE", "SUITE", "LOS", "LAB", "RADIOLOGY", "NON-DIAGNOSTIC LAB", "MEDICINES", "CONSUMABLES"],
+  "rows": [
+    {"PACKAGE CODE": "PKG004642", "SERVICE NAME": "PCNL WITH DJ STENT PKG (IM)", "GENERAL": "120000", "SEMIPRIVATE ECONOMY": "122640", "SEMIPRIVATE": "140160", "PRIVATE": "157680", "DELUXE": "175200", "SUITE": "197100", "LOS": "3 DAYS", "LAB": "NIL", "RADIOLOGY": "NIL", "NON-DIAGNOSTIC LAB": "NIL", "MEDICINES": "6000", "CONSUMABLES": "14000"},
+    {"PACKAGE CODE": "PKG032624", "SERVICE NAME": "TURP PKG (IM)", "GENERAL": "100000", "SEMIPRIVATE ECONOMY": "102200", "SEMIPRIVATE": "116800", "PRIVATE": "131400", "DELUXE": "146000", "SUITE": "164250", "LOS": "3 DAYS", "LAB": "NIL", "RADIOLOGY": "NIL", "NON-DIAGNOSTIC LAB": "NIL", "MEDICINES": "8000", "CONSUMABLES": "12000"},
+    // ... other rows from pages 82-83
+    {"PACKAGE CODE": "PKG003485", "SERVICE NAME": "DVR PKG (IM)", "GENERAL": "250000", "SEMIPRIVATE ECONOMY": "255500", "SEMIPRIVATE": "292000", "PRIVATE": "328500", "DELUXE": "365000", "SUITE": "410630", "LOS": "7 DAYS", "LAB": "75000", "RADIOLOGY": "ONLY 1 QTY DOPLER & ONLY 10 QTY XRAY ARE INCLUDED", "NON-DIAGNOSTIC LAB": "ONLY 2 QTY ECHO 2D & 3 QTY ECG ARE INCLUDED", "MEDICINES": "35000", "CONSUMABLES": "120000"}
+  ]
+},
+{
+  "chunk_id": "p84_physiotherapy_charges",
+  "page_number": 84,
+  "type": "table",
+  "title": "PHYSIOTHERAPY CHARGES",
+  "headers": ["SERVICE_CODE", "SERVICE_NAME", "CATEGORY", "OPD", "GENERAL", "SEMI ECONOMY", "SEMIPRIVATE", "PRIVATE", "DELUXE", "SUITE"],
+  "rows": [
+    {"SERVICE_CODE": "SVC008018", "SERVICE_NAME": "EXERCISE & MODALITIES", "CATEGORY": "PHYSIOTHERAPHY", "OPD": "1790", "GENERAL": "2070", "SEMI ECONOMY": "2580", "SEMIPRIVATE": "2870", "PRIVATE": "3220", "DELUXE": "3580", "SUITE": "4030"},
+    {"SERVICE_CODE": "SVC008078", "SERVICE_NAME": "BREATHING EXCERCISES AND POSTURAL DRAINAGE", "CATEGORY": "PHYSIOTHERAPHY", "OPD": "560", "GENERAL": "770", "SEMI ECONOMY": "800", "SEMIPRIVATE": "900", "PRIVATE": "1010", "DELUXE": "1120", "SUITE": "1260"},
+  ]
+},
+{
+  "chunk_id": "p189_contact_info",
+  "page_number": 189,
+  "type": "contact_information",
+  "title": "Dharamshila Narayana Hospital, Delhi",
+  "content": "The schedule of charges is effective from January 2024 till the next revision, any further addition/modification required will be done as on addendum/amendments till the next revision.\n1800 309 0309 www.narayanahealth.org"
+}
+]

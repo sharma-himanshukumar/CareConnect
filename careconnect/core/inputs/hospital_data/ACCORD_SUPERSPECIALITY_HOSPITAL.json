@@ -1,0 +1,947 @@
+[{
+  "chunk_id": "p1_cover",
+  "page_number": 1,
+  "type": "cover_page",
+  "hospital_name": "Accord Superspeciality Hospital",
+  "tagline": "SMART HOSPITAL YOU CAN TRUST",
+  "accreditations": ["NABH", "NABL"]
+},
+
+{
+  "chunk_id": "p2_philosophy",
+  "page_number": 2,
+  "type": "section_text",
+  "hospital_name": "ACCORD SUPERSPECIALITY HOSPITAL",
+  "hindi_message_title": "ऋग्वेद-मंडल-10, सूक्त-191, मंत्र-2-4",
+  "hindi_message": "हे मनुष्य ! तुम मिलकर चलो, मिलकर विचार करो और तुम्हारे मन एक हो कर ज्ञान प्राप्त करें जिस प्रकार तुम्हारे पूर्वज एक थे। वैसे तुम सब भी एक रहकर अपना अपना कार्य करो तुम्हारा लक्ष्य एक हो, विचार एक हो, अंतः करण भी एक हो और तुम्हारी आहुतियां भी समान यज्ञ के लिए ही हों तुम्हारा संकल्प एक सामान रहे, तुम्हारे ह्रदय एक रहें और तुम्हारे मन भी एक जैसे हों, इस प्रकार, संगठित रहकर तुम सब अपने सारे कार्य संपादित करो।\nसंगच्छध्वं संवदध्वं सं वो मनांसि जानताम्। देवा भागं यथा पूर्वे संजानाना उपासते।।\nसमानो मंत्रः समितिः समानी समानं मनः सह चित्तमेषाम्। समानं मंत्रमभि मंत्रये वः समानेन वो हविषा जुहोमि।।\nसमानी व आकूतिः समाना हृदयानी वः। समानमस्तु वो मनो यथा वः सुसहासति।।",
+  "english_message": "Dear Friend, assemble, speak together, let your mind be all of one ACCORD just like your ancestors, and in the same way, you also do your work by being in ACCORD. May your goals, thoughts, conscience, and sacrifice be towards one aim. May your thoughts and heart be in ACCORD and your mind also be the same; in this way, by being ACCORD, may you all accomplish your tasks."
+}
+,
+{
+  "chunk_id": "p3_vision_mission_story",
+  "page_number": 3,
+  "type": "multi_section",
+  "sections": [
+    {
+      "title": "VISION",
+      "content": "We envision to be a compassionate healthcare delivery partner and provide unparalleled experienced by integrating traditional wisdom, modern technology, artificial intelligence and effective clinical protocols"
+    },
+    {
+      "title": "MISSION",
+      "content": "Our objective is to provide a responsive healing environment and contribute towards well-being of every patient. To inspire hope by our unrelenting attention to clinical excellence, patient safety and an unparalleled passion and commitment to assure the very best in healthcare."
+    },
+    {
+      "title": "OUR STORY",
+      "content": "The story of Accord began, when six enthusiastic minds collaborated to create the India’s one of the finest SMART Hospital called Accord Superspeciality Hospital. This hospital is a brainchild of highly experienced and renowned team of doctors:\nDr. Rishi Gupta (Chairman & Managing Director)\nDr. Prabal Roy (Chairman - Advanced Minimally Invasive Surgery)\nDr. Jitendra Kumar (Chairman – Renal Sciences & Transplant Unit)\nDr. Yuvraj Kumar (Chairman – Orthopaedics, Joint Replacement & Sports Injury)\nDr. Ram Chandra Soni (Chairman – Gastroenterology & Hepatology)\nDr. Rohit Gupta (Chairman – Neurosciences)\nOur visionaries believe in the old saying that the best doctor is the one who not only heals his patients but also cares for them. The essence of medical care at Accord is health and happiness of the patients, which means addressing individual needs through patient-centric features. Our goal is to make a difference for people who need it the most.",
+      "doctors": [
+        "Dr. Rishi Gupta (Chairman & Managing Director)",
+        "Dr. Prabal Roy (Chairman - Advanced Minimally Invasive Surgery)",
+        "Dr. Jitendra Kumar (Chairman – Renal Sciences & Transplant Unit)",
+        "Dr. Yuvraj Kumar (Chairman – Orthopaedics, Joint Replacement & Sports Injury)",
+        "Dr. Ram Chandra Soni (Chairman – Gastroenterology & Hepatology)",
+        "Dr. Rohit Gupta (Chairman – Neurosciences)"
+      ]
+    }
+  ]
+}
+,
+{
+  "chunk_id": "p4_chairman_message",
+  "page_number": 4,
+  "type": "message_section",
+  "title": "MESSAGE",
+  "message_content": "Accord Super Speciality Hospital, has brought together Six Super Specialist doctors on a single platform to share their vision, wisdom and opinions to integrate the traditional knowledge of medicine with new-age treatment modalities, bringing out the best of both. We strive to provide you with the most innovative technologies under one roof. We along with our teams bring on board immense experience for addressing healthcare needs of the region.",
+  "doctor_name": "DR. JITENDRA KUMAR",
+  "doctor_credentials": "MBBS, MD (Medicine), DNB (Medicine), DM (Nephrology)",
+  "doctor_title": "Chairman & Managing Director"
+}
+,
+{
+  "chunk_id": "p5_our_directors",
+  "page_number": 5,
+  "type": "directors_list",
+  "title": "OUR DIRECTORS",
+  "directors": [
+    {
+      "name": "DR. RISHI GUPTA",
+      "credentials": "MBBS, MD (Medicine), DM (Cardiology), DNB (Cardiology), FSCAI (USA), FACC (USA), FESC",
+      "role": "Chairman - Cardiac Sciences"
+    },
+    {
+      "name": "DR. ROHIT GUPTA",
+      "credentials": "MBBS, MD (Medicine), DM (Neurology), DNB (Neurology)",
+      "role": "Chairman - Neurosciences"
+    },
+    {
+      "name": "DR. R.C. SONI",
+      "credentials": "MBBS, MD (Medicine), DM (Gastroenterology)",
+      "role": "Chairman - Gastroenterology & Hepatology"
+    },
+    {
+      "name": "DR. PRABAL ROY",
+      "credentials": "MBBS, MS- General Surgery, DNB-General Surgery",
+      "role": "Chairman – Advanced Minimally Invasive Surgery"
+    },
+    {
+      "name": "DR. YUVRAJ KUMAR",
+      "credentials": "MBBS, M.S. (Ortho), MRCS (1), FIMS (U.K) Fellowship: RNOH (Stanmore) GOSH (London)",
+      "role": "Chairman - Orthopaedics, Robotic Joint Replacement & Sports Injury"
+    }
+  ]
+}
+,
+{
+  "chunk_id": "p6_smart_hospital_features",
+  "page_number": 6,
+  "type": "section_with_diagram",
+  "title": "WHAT MAKES US SMART HOSPITAL?",
+  "main_text": "Accord is with you EVERY TIME, EVERYWHERE & WHENEVER YOU WANT– 24X7\nAt Accord Superspeciality Hospital, we adhere to the use of advanced and innovative technology, to ensure a hassle-free experience with the right optimization of your time and efforts. We believe that just like the world, healthcare is evolving too and we strive to stay aligned with the changing trends, making sure you get the best of it. After all, it is not just about delivering the best care, but also how we deliver it. Being a Smart Hospital, we have redesigned all our services with modern hospital automation software, ensuring a digitized medical experience where you will find us by your side every time, everywhere and whenever you want, with 24/7 accessibility.",
+  "diagram_elements": [
+    "AI CHATBOTS & KIOSK",
+    "CONSULTATION VIA VIDEO CALL / AUDIO / CHAT.",
+    "E-PHARMACY",
+    "HOME SAMPLE COLLECTION",
+    "TELERADIOLOGY",
+    "HEALTHCARE AT HOME",
+    "E-PRESCRIPTION",
+    "SMART INVESTIGATION",
+    "SMART CARD & SMART BILLING"
+  ]
+}
+,
+{
+  "chunk_id": "p7_specialities_grid",
+  "page_number": 7,
+  "type": "grid_list",
+  "title": "CENTRE OF EXCELLENCE & SPECIALITIES",
+  "specialities": [
+    "Neurosciences", "Gastroenterology & Hepatology", "Nephrology & Transplant Medicine", "Advanced Minimally Invasive Surgery",
+    "Cardiology", "Orthopaedics, Joint Replacement & Sports Injury", "CTVS", "Urology & Renal Transplant",
+    "Neurosurgery (Brain & Spine)", "Internal Medicine & Rheumatology", "Respiratory Medicine", "Endocrinology",
+    "Obstetrics & Gynecology (Infertility & IVF(Only OPD))", "Paediatrics & Neonatology", "Ophthalmology", "Dental",
+    "ENT & Audiometry", "Dermatology & Cosmetology", "Mental Health (Psychiatry, Psychology)", "Oncology (Surgical, Medical)",
+    "Alternative Medicine (Homeopathy & Ayurveda)", "Imaging", "Emergency & Trauma", "Physiotherapy & Rehabilitation",
+    "Lab", "Dietetics", "Blood Bank", "Anesthesia",
+    "Plastic Surgery", "Paediatric Surgery"
+  ]
+}
+,
+{
+  "chunk_id": "p8_emergency_facilities_diagram",
+  "page_number": 8,
+  "type": "diagram",
+  "title": "24X7 EMERGENCY UNIT WITH FACILITIES LIKE",
+  "facilities": [
+    "EMERGENCY & TRAUMA",
+    "RADIOLOGY & IMAGING",
+    "LABORATORY",
+    "E-PHARMACY",
+    "VIDEO & TELE CONSULTATION",
+    "AMBULANCE SERVICES"
+  ]
+}
+,
+{
+  "chunk_id": "p9_gastroenterology_hepatology",
+  "page_number": 9,
+  "type": "department_overview",
+  "main_title": "CENTRE OF EXCELLENCE ACCORD GASTROENTEROLOGY & HEPATOLOGY INSTITUTE",
+  "sections": [
+    {
+      "title": "OVERVIEW",
+      "content": "Accord Super Specialty Hospital has a dedicated facility for patients with gastrointestinal, liver, and pancreatic diseases. The team of experts offers a customized treatment plan to the patients, for which we have developed a practice where medical, surgical and allied teams jointly decide about the patient and disease management. The best treatment is offered for diseases and disorders of the pancreas, liver, gallbladder, esophagus, stomach, small intestine and colon."
+    },
+    {
+      "title": "GASTROENTEROLOGY",
+      "content": "This division of the department deals with the evaluation and treatment of gastrointestinal disorders (i.e. medical conditions from mouth till anus). It is manned by a dedicated gastrointestinal endoscopy team that provides quaternary level care for patients suffering from gastrointestinal diseases and various cancers. The team provides the latest and state-of-the-art endoscopic treatment for GI problems."
+    },
+    {
+      "title": "BILIARY SCIENCES",
+      "content": "This unit is focused on the treatment of conditions related to the biliary system i.e. bile duct, supporting structures that produce and transport bile juice, gallbladder. The endoscopy team conducts major procedure like – ERCP to identify and treat the problems of the bile duct and pancreas. High-end procedures like EUS (endoscopic ultrasound) to identify and treat difficult diseases of the gall bladder, bile duct, liver, and pancreas."
+    },
+    {
+      "title": "BILIO PANCREATIC AND LIVER CANCER",
+      "content": "This unit takes care of the patients suffering from liver cancer, chronic liver disease and pancreatitis by either performing surgical resection (tumor removal) or a liver transplant (replacing the non-functional liver with a healthy one by a surgical process) or pancreatic surgeries using state-of-the-art facilities. It also performs imaging tests like MRI or CT with angiography to spot the malignancy."
+    },
+    {
+      "title": "INTERVENTIONAL RADIOLOGY FOR LIVER DISORDERS",
+      "content": "The department also runs dedicated interventional GI radiology which treats various diseases of the liver and intestine like incurable liver cancer, bleeding from GI tract, difficult to treat biliary cancers."
+    }
+  ],
+  "procedures_summary": "The department consists of the most advanced facilities and carries out all major endoscopy and radiology-assisted procedures for GI Disorders and Biliopancreatic and liver cancers.",
+  "diagnostic_endoscopic_procedures": [
+    "Colonoscopy", "Enteroscopy",
+    "Upper GI Endoscopy", "Fibroscan",
+    "Endoscopic Ultrasound", "Anorectal Manometry",
+    "Breath Test"
+  ],
+  "interventional_endoscopic_procedures": [
+    "Liver biopsy",
+    "Polypectomy",
+    "Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+    "Argon Plasma Coagulation",
+    "Transarterial Chemoembolism for Liver Cancer (TACE/RFA/ MWA)",
+    "Splenic Artery Embolization",
+    "Therapeutic Upper & Lower GI, Endoscopy",
+    "Biliary Decompression",
+    "Metal Stent Placement",
+    "Pseudocyst/WOPN Drainage",
+    "Esophageal and Rectal Manometry",
+    "Abscess Drainage"
+  ]
+}
+,
+{
+  "chunk_id": "p10_brain_spine_institute",
+  "page_number": 10,
+  "type": "department_overview",
+  "main_title": "CENTRE OF EXCELLENCE ACCORD BRAIN & SPINE INSTITUTE",
+  "overview": "The department of Neurosciences at the Accord Super Speciality hospital, houses a well-integrated and dedicated team of region's best neurologists, neurosurgeons, interventional neurologists, paediatric neurologists and neuro psychiatrist, in order to deliver 24x7 unmatched, quality services to tackle all types of neurological/ neurosurgical emergencies, including complex Brain & spine surgeries, along with advanced surgical procedures including Deep Brain Stimulation (DBS) for movement disorders and complex Epilepsy surgeries, buttressed by a steadfast, dedicated and most advanced “STROKE ICU”.",
+  "neurology_services_and_specialty_clinics": {
+    "Stroke clinic": "Epilepsy clinic",
+    "Headache clinic": "Movement Disorder clinic",
+    "Botox clinic": "Dementia clinic",
+    "Neuro-Immunology clinic": "Nerve and Muscle Clinic",
+    "Pain clinic": "Sleep clinic"
+  },
+  "pediatric_neurology": {
+    "Pediatric Epilepsy": "Movement Disorders",
+    "Young Onset Stroke": "Cerebral Palsy",
+    "Neuro-metabolic Disorders": "Childhood Headaches",
+    "Ataxias": "Autism",
+    "Brain Infections": "Developmental Issues"
+  },
+  "neuro_interventional_procedures": [
+    "Brain DSA",
+    "Mechanical Intervention in Acute Stroke.",
+    "24/7 Acute Stroke therapy with Stent Retrieval of Thrombus",
+    "Carotid Artery Stenting",
+    "Coiling"
+  ],
+  "neuro_surgery_services": {
+    "Clipping for Neuro Anerusym": "Neuro trauma Unit",
+    "Brain Tumours & IcSOLs Clinic": "Minimally Invasive Spinal Surgery",
+    "Endovascular Neurosurgery": "Endoscopic Brain Surgery",
+    "Endoscopic Skull Base Surgery": "Deep Brain Stimulation (DBS)",
+    "Movement Disorder Surgery": "Pediatric Neurosurgery"
+  },
+  "why_choose_accord_neurosciences_centre": [
+    "One- stop Solution to all Neurological and Neurosurgical Ailments",
+    "24x7 Neurological/ Neurosurgical Emergency Services",
+    "Most Advanced - Dedicated STROKE ICU",
+    "Pioneer Neuro-intervention unit in the region, with the first “Brain Suite” for Acute Stroke",
+    "Continuum of care with The Accord Neuro Rehab Unit (including Speech Therapy) and Dysphagia Clinic",
+    "Best-in-class and most advanced medical intelligentsia and infrastructure under single roof –",
+    "Advanced Structural and Functional Neuro Imaging Techniques-",
+    "1.5 Tesla MRI",
+    "500 Equivalent Slice Ct Scan",
+    "Functional MRI",
+    "MR Neurography",
+    "3rd Generation Neuro Cath Lab For Neuro Interventions",
+    "Long Term EEG Monitoring",
+    "Advanced Sleep Lab",
+    "Neuro-electrophysiology Lab"
+  ],
+  "highlights": [
+    "Mechanical Intervention in Acute Stroke",
+    "24/7 Acute Stroke therapy with Stent Retrieval of thrombus"
+  ]
+}
+,
+{
+  "chunk_id": "p11_general_laparoscopic_surgery",
+  "page_number": 11,
+  "type": "department_overview",
+  "main_title": "CENTRE OF EXCELLENCE ACCORD GENERAL & LAPAROSCOPIC SURGERY INSTITUTE",
+  "pioneer_in_minimally_invasive_surgery": "The department of Surgery at Accord Superspecialty Hospital provides comprehensive, round the clock surgical services for all general surgical procedures including advanced laparoscopic surgeries. Our team of surgeons work closely with other specialists involved in each patient's care to diagnose and provide timely surgical intervention for complex conditions which require immediate interventions like Trauma Surgeries, Endocrine Surgeries, Gastrointestinal Surgeries, Minimal Access Surgeries Including Laparoscopic Appendisectomy, Gall Bladder Removal, Minimally Invasive Procedure For Piles & Hernia Repair, Single Incision Laparoscopic Surgeries (For Better Cosmetic Outcome), Colorectal Surgeries, Breast Surgery, Vascular Surgery, Pediatric Surgery, Dermatological Surgery, All Day Care Procedures.",
+  "services": [
+    "ADVANCED LAPAROSCOPIC SURGERIES FOR SOLID ORGAN DISEASES",
+    "ADRENAL SPLENECTOMY",
+    "ECTOMY"
+  ],
+  "bariatric_and_metabolic_surgeries_weight_loss": {
+    "Lap Sleeve Gastrectomy": "Lap RYGB",
+    "Lap Mini Gastric Bypass": "Revision Bariatric Surgery"
+  },
+  "hepatobiliary_and_pancreatic_surgery": [
+    "Lap Cholecystectomy with CBD exploration & biliary bypass",
+    "Lap /Open Surgery for Benign/Malignanct Diseases of the Pancreas"
+  ],
+  "upper_gi_surgery": [
+    "Lap Fundoplication",
+    "Lap Cardiomyotomy"
+  ],
+  "hernia_surgery": {
+    "Lap Inguinal Hernia repair": "Lap ventral hernia repair",
+    "Lap e TEP RS": null,
+    "Lap/Open Component Separation": null
+  },
+  "lower_gi_and_colorectal_surgery": [
+    "Lap Appendectomy",
+    "Total Mesorectal Excision for rectal cancer",
+    "Cancer colon"
+  ],
+  "vats_video_assisted_thoracoscopic_surgery": [
+    "Decortication and Empyema Drainage",
+    "Bullectomy Thymectomy",
+    "Pneumonectomy/Lobectomy"
+  ],
+  "endovascular_surgery": [
+    "Laser Varicose Vein Surgery"
+  ],
+  "laser_proctology": {
+    "Hemorrhoids": "Fissure",
+    "Fistula": "Pilonidal sinus"
+  },
+  "head_and_neck_surgery": {
+    "Thyroid": "Parathyroid",
+    "Parotid surgery": null
+  },
+  "breast_surgery": [
+    "Benign and cancer"
+  ]
+}
+,
+{
+  "chunk_id": "p12_renal_sciences_transplant",
+  "page_number": 12,
+  "type": "department_overview",
+  "main_title": "CENTRE OF EXCELLENCE ACCORD RENAL SCIENCES & TRANSPLANT INSTITUTE",
+  "nephrology_overview": "At accord, we are offering a comprehensive kidney care to patients through our full range of diagnostic, operative and disease management services. Our integrated team of specialists tackle a wide range of kidney disorders in patients suffering from the early phases and end stage kidney dysfunction. We also specialize in early detection of kidney diseases by kidney biopsy & other tools to ensure timely intervention and cure. Our department is well equipped to diagnose & treat primary or secondary kidney & allied diseases, namely: electrolyte disorders, hypertension, diabetic nephropathy, glomerulonephritis, polycystic kidney disease, and other inherited renal disease renal parenchymal disease etc. For patient who already develop chronic kidney disease, we specialize in renoprotection and in retarding the progressing of the condition. For patient with kidney failure we provide all kinds of renal replacement therapy.",
+  "urology_overview": "Our urology department focuses on the conditions of the male and female urinary tract; which includes the kidneys, ureter, bladder, and urethra. We are well-equipped with advanced technology, and offer comprehensive solutions to complex surgical problems. We specialize in providing treatment and management of Kidney stones, Reflux and obstructive nephropathies. With experienced urologists, skilled medical staff and world-class infrastructure, we are dedicated to provide unparalleled and individualized care for every patient with urological disorders. Our team have years of experience in performing kidney transplant with unbeatable success rates.",
+  "services_nephrology": [
+    "Kidney Biopsy",
+    "Emergency Nephrology",
+    "Out Patient & In Patient Kidney Care",
+    "Ultramodern Hemodialysis /Hemodiafiltration /Hemoperfusion",
+    "All modes of CRRT",
+    "COVID-19 Dialysis",
+    "Continuous Ambulatory Peritoneal Dialysis (CAPD)",
+    "Pre & post Renal Transplantation Care"
+  ],
+  "nephrology_specialties": {
+    "Critical care Nephrology": "Urinary infection treatment",
+    "Renal Diet Counseling": "Palliative Nephrology",
+    "Pediatric Nephrology": "Preventive Nephrology",
+    "Acute Kidney Injury (AKI) Treatment": "CKD Management"
+  },
+  "urology_specialties": [
+    "Endoscopic Stone Surgery- PCNL, URS, RIRS",
+    "Lithotripsy- Extracorporeal",
+    "Laser Surgery for Prostate",
+    "Uro-gynecological Surgeries",
+    "Pediatric Urology – Endoscopic & Reconstructive Surgeries",
+    "Male Infertility Treatment",
+    "Non Scalpel Vasectomy",
+    "Chronic/complicated UTIs",
+    "Cancer surgery for Prostate, Kidney & Bladder Tumor",
+    "Urethral Stricture Surgeries",
+    "AV Fistula Creation"
+  ],
+  "kidney_transplant": [
+    "All kinds of kidney transplant including",
+    "ABO Incompatible",
+    "Sensitized Kidney Transplant",
+    "HIV Positive Kidney Transplant",
+    "Cadaveric Kidney Transplant"
+  ]
+}
+,
+{
+  "chunk_id": "p13_heart_institute",
+  "page_number": 13,
+  "type": "department_overview",
+  "main_title": "CENTRE OF EXCELLENCE ACCORD HEART INSTITUTE",
+  "overview": "At Accord, we have an integrated Cardiac Centre with a dedicated team of Cardiologists, Cardiac Surgeons, Paediatric Cardiac Surgeons, and Cardiac anaesthetist who work together to provide comprehensive and multidisciplinary care to patients suffering from heart ailments. Our team of doctors, nurses, technicians and other heart experts are there to ensure unparalleled excellence in patient care. We are available 24x7 to help patients with cardiac emergencies with primary and complex Coronary Angioplasties and Stenting.",
+  "facilities_infrastructure": {
+    "opd_services": ["Paediatric OPD & Speciality OPD like Arrhythmia also available"],
+    "clinics": ["Heart Failure Clinic", "Comprehensive cardiac care"],
+    "general_description": "The Department is equipped with world-class infrastructure to provide comprehensive cardiac care."
+  },
+  "critical_area": "Equipped with state-of-the-art 18 bedded CCU with fully equipped critical care ambulatories. Critical care is equipped with the latest AI-based Centricity system from GE to provide seamless and high-quality critical care monitoring. CCU is also equipped with IABP & ECMO services to provide the highest care to critically ill patients.",
+  "non_invasive_department": "Institute boasts of the very high-quality noninvasive department in Delhi NCR region with the latest technology equipped with 3 high-end ECHO machines – ultra edition E95, 4D ECHO Machines which are equipped with latest artificial intelligence and connected features, VIVD I advance echo system and 4D TEE probe & pediatric ECHO. Point of care ultraportable ECHO machine for emergency ECHO. Also equipped with high-end TMT, Digital Holter System, PFT, ECG. The noninvasive department is 1st in Faridabad to bring high-quality cardiac MRI & a 500 Slice CT scanner for non-invasive high-quality diagnosis of cardiac patients.",
+  "invasive_lab": "Cardiac Centre is equipped with the latest 3rd generation 30cm flat panel (1st in Faridabad) 3D Cath Lab IGS330 from GE. Cath lab is capable of doing structural heart interventions, Neuro interventions, and peripheral interventions with specialized Innova CT (CT Scan in Cath Lab). Cath lab is equipped with other quality equipment’s like intravascular ultrasound, OCT, FFR, the coronary intravascular lithotripsy system for complex angioplasties",
+  "services_interventional_cardiology": [
+    "3rd Generation Cath lab with largest diameter flat panel for cardiac, peripheral and dedicated neuro vascular interventions with capability of 3D angiography & integration of CT",
+    "Radial & Femoral Angiography",
+    "24/7 Primary Angioplasty",
+    "Complex angioplasty for chronic total occlusions",
+    "Left Main Angioplasty",
+    "Bifurcation lesion Angioplasty",
+    "Post Bypass Graft Interventions",
+    "Carotid angioplasty",
+    "Rotablation for calcified occasional",
+    "Peripheral angioplasty & Stenting",
+    "Percutaneous aortic aneurysm repair by stent grafts",
+    "Septal alcohol ablation in Hypertrophic cardiomyopathy"
+  ]
+}
+,
+{
+  "chunk_id": "p14_heart_institute_interventions",
+  "page_number": 14,
+  "type": "department_services",
+  "structural_heart_disease_interventions": [
+    "Balloon Valvotomies for Mitral, Aortic, Pulmonary and Tricuspid Stenosis",
+    "Percutaneous aortic valve replacement (TAVR)",
+    "Endovascular aneurysm repair (EVAR)",
+    "Percutaneous Mitral Valve Repair (Mitraclip)",
+    "Non-surgical Mitral Valve Repair",
+    "Nonsurgical device closure of congenital heart defects – ASD, PDA, VSD"
+  ],
+  "cardiothoracic_surgery": [
+    "Minimally Invasive Bypass Surgeries",
+    "Valve Replacements",
+    "Aneurysm Surgery",
+    "Complex CABG / Multi Valve Surgery",
+    "Lung Surgery",
+    "Vascular Surgery",
+    "Laser Varicose Veins Procedures",
+    "Bental's Surgery",
+    "Paediatric Heart Surgery",
+    "Ecmo care for most serious patients for cardio vascular support"
+  ],
+  "electrophysiology": [
+    "Electrophysiology studies",
+    "Pacemaker implantation",
+    "ICDs implantation",
+    "CRT-P &CRT-D implantation",
+    "Radio frequency ablation for cardiac arrhythmias like SVT, VT & AF",
+    "Bental's Surgery",
+    "Paediatric Heart Surgery",
+    "Ecmo care for most serious patients for cardio vascular support"
+  ],
+  "highlights": [
+    "Cardiac MRI",
+    "3rd Generation Cath Lab",
+    "High End ECHO Machine",
+    "4D Technology ECM"
+  ]
+}
+,
+{
+  "chunk_id": "p15_orthopaedics_sports_injury",
+  "page_number": 15,
+  "type": "department_overview",
+  "main_title": "CENTRE OF EXCELLENCE ACCORD ORTHOPAEDICS, JOINT REPLACEMENT & SPORTS INJURY INSTITUTE",
+  "orthopedics_joint_replacement_sports_injury_overview": "At Accord Superspeciality Hospital, we offer comprehensive care for various Orthopaedic conditions, including knee, hip, joint and spine problems. We are equipped with a wide array of specialties ranging from Joint Replacement, Sports Medicine, Paediatric Orthopaedic Services, Arthritis and Pain Management. We focus on providing the highest level of patient care with professional expertise for early mobilization.",
+  "centre_for_joint_replacement_overview": "At Accord Superspeciality Hospital, we offer state of the art computer navigated joint replacement services for knee/hip/shoulder/elbow. Equipped with the most advanced modular operation theaters and post-surgery recovery suites, we offer an unmatched patient experience.",
+  "services_joint_replacement": [
+    "Computer Assisted Joint Replacement Surgery",
+    "Hand, Shoulder & Elbow Surgery",
+    "Spine Surgery",
+    "Hip Surgery",
+    "Foot & Ankle Surgery",
+    "Revision Surgeries of Joints",
+    "Total Knee & Hip Replacement Surgery",
+    "Deformities Surgeries"
+  ],
+  "spine_surgery": {
+    "Cervical & lumbar spondylitis": "Spinal deformity correction",
+    "Spinal injury": "Osteoporosis treatment",
+    "Minimally invasive surgery": "Disc replacement surgery",
+    "Deformity correction": "Scoliosis & Kyphosis",
+    "Osteoporotic collapse fracture": "Balloon kyphoplasty, Vertebroplasty"
+  },
+  "sports_injury_arthroscopy_overview": "Sports medicine is a sub-specialty of Orthopaedics that focuses on the diagnosis, treatment and prevention of injuries that are usually sustained while playing sports or while doing rigorous physical activities. Our team of experts offers various surgical, non-surgical and rehabilitation programs which helps patients get back to their performance level as before. We specialize in advanced keyhole surgeries of shoulder, knee, hip and ankle, and biological modalities such as PRP (platelet rich plasma) for non-surgical management of various ligament and joint conditions.",
+  "services_sports_injury": {
+    "Shoulder Ligament Injuries": "Cartilage Injuries",
+    "Rotator Cuff Tear": "Tendonitis",
+    "Muscle or Ligament Tear": null,
+    "Shoulder/Knee Dislocation": "MPFL Tear",
+    "Complex Peri Articular & Pelvi-Acetabular Fractures": null,
+    "Reconstruction of the Hip and Pelvis - Poly-Trauma Management": null
+  },
+  "emergency_trauma_deformity_surgery": "We have level 1 trauma centre, where we provide 24x7 emergency support and treatment for patients with traumatic bone fractures and soft tissue injuries. Our highly experienced team of orthopedic surgeons is recognized for the treatment of fractures and deformities as a result of a failed surgery and complex injury. Our primary goal is to increase quality of life by providing personalized care and treatment to our patients.",
+  "highlights_technology": [
+    "Digital Orthopedic Operating Suite",
+    "3D Computer Navigation System",
+    "High definition 4K cameras and arthroscopic equipment for performing technically challenging keyhole procedures.",
+    "Our state of the – art technology ensures better alignment, greater precisions and excellent surgical outcome."
+  ],
+  "highlights_general": [
+    "3D Computer Navigation",
+    "Ortho Rehabilitation",
+    "Digital Orthopaedic Suite"
+  ]
+}
+,
+{
+  "chunk_id": "p16_pulmonology_sleep_medicine",
+  "page_number": 16,
+  "type": "department_overview",
+  "main_title": "INTERVENTIONAL PULMONOLOGY & SLEEP MEDICINE",
+  "overview_department": "The Department of Pulmonology at Accord Super Speciality Hospital is equipped with modern cutting-edge technologies to prevent and treat respiratory illnesses. Our expert pulmonologists provide advanced treatment and critical care for all respiratory diseases such as Bronchitis, Lung cancer, Allergies, Respiratory failure, Tuberculosis, Bronchial Asthma, Pulmonary Hypertension, Interstitial lung Disease, Smoking Cessation, Chronic Obstructive Pulmonary Disease (COPD), Obstructive Sleep Apnoeas, etc.",
+  "overview_approach": "Our pulmonologists partner with experts from other medical specialties to ensure the best treatment for every patient. They promote quality healthcare which makes us one of the best lung specialty hospitals in Faridabad. Here, we ensure accurate diagnosis, efficient medical management, the best procedures and treatment, and fast recovery care for all our patients. We have different specialists for different pulmonary issues like asthma services, COPD services, lung cancer, and infections services, etc. For diagnosis, we also provide various testing services like Multiple Sleep Latency Test (MSLT), Maintenance of Wakefulness Testing (MWT), Overnight Diagnostic Polysomnogram (PSG) or Sleep Study, Diffusion Capacity & Lung Volume, Impulse Oscillation Testing (IOS), Skin Prick Test for allergen identification, etc. Endobronchial ultrasound guided FNA, foreign body removal (endobronchial), bronchoscopy, therapeutic diagnosis, thoracoscopy.",
+  "services_list": [
+    "Bullectomy",
+    "Bronchoscopy & Endobronchial Ultrasound (EBUS)",
+    "Thoracostomy",
+    "Lung Transplant",
+    "Pulmonary Endarterectomy",
+    "Pulmonary Rehabilitation Programme",
+    "Lung Volume Reduction Surgery",
+    "Allergy Shots for Asthma",
+    "Thoracoscopy",
+    "Ventilatory Support",
+    "Medical Management",
+    "Sleep Study (diagnosis/PFT, lung volume, diffusion capacity",
+    "Bronchial Artery Embolization"
+  ],
+  "subspecialties": [
+    "Interventional Pulmonology",
+    "Clinical Pulmonology",
+    "Sleep Disorder",
+    "Pulmonary Function Test",
+    "Pulmonary Medicine"
+  ],
+  "procedures_and_facilities_respiratory_diseases": [
+    "Diagnostic & Therapeutic Thoracoscopy with adhesiolysis",
+    "Oxygen Supplementation Therapy"
+  ]
+}
+,
+{
+  "chunk_id": "p17_mother_child",
+  "page_number": 17,
+  "type": "department_overview",
+  "main_title": "DEPARTMENT OF MOTHER & CHILD",
+  "overview": "Accord Hospital’s vision is to serve women with advance diagnostic and therapeutic techniques that provide less invasive treatments for various gynaecologic conditions. We have a team of highly experienced doctors who are skilled in advanced laparoscopic and minimally invasive techniques required for the removal of gynaecological tumours, cysts, uterus and management of tubal pathologies interfering fertility.",
+  "obstetrics_services": [
+    "Preconceptional counseling & care",
+    "Pregnancy stress management",
+    "Maternal Immunization & special mother's craft and antenatal classes",
+    "Pregnancy after IVF",
+    "Normal pregnancy with facility of painless labour",
+    "Complex and High risk pregnancy and labour management",
+    "Early pregnancy complications counselling and management",
+    "Management of complicated pregnancies with multiple medical disorders",
+    "Management of pregnancy with previous multiple surgeries",
+    "Management of pregnancy with history of previous multiple pregnancies losses",
+    "Ectopic pregnancy management",
+    "Management of Scar ectopic pregnancy",
+    "Molar pregnancy management",
+    "Post-delivery Contraceptive counseling",
+    "Premium Luxury Labour Room Service",
+    "Emergency and critical care available 24x7"
+  ],
+  "gynecology_services": [
+    "Adolescent health counselling and management",
+    "PCOD",
+    "Laparoscopic and Hysteroscopy surgeries",
+    "Advanced Gynecological Endoscopy",
+    "Cancer Screening Services",
+    "3D Scan",
+    "Menopause counselling and management",
+    "Interventional radiology in gynecology",
+    "Transvaginal USG for various gynecological disorder",
+    "Genital Tuberculosis",
+    "Medical & surgical Management of abnormal uterus bleeding",
+    "Fibroids", "Endometriosis",
+    "Adenomyosis", "Ovarian cyst",
+    "Uterine prolapse", "Vault prolapse",
+    "Stress incontinence"
+  ],
+  "infertility_ivf": {
+    "overview": "At Accord Superspeciality Hospital, we have a dedicated Infertility Unit, where we give patient hearing to all your problems. We ensure full privacy in all our counselling sessions, The services we offer here range from simple modalities like ovulation induction and IUI to advanced procedures like IVF and ICSI. The Department of Assisted Reproductive Techniques comprises fully trained doctors /embryologists / IVF nurses and counsellors.",
+    "one_stop_center_services": [
+      {"service": "HSG", "detail": "D2/D3 USG TVS"},
+      {"service": "Hormone profile", "detail": "Follicular monitoring"},
+      {"service": "Semen analysis", "detail": "Ovulation induction"},
+      {"service": "IUI", "detail": null}
+    ],
+    "specialized_advanced_procedures": [
+      "TESA/PESA",
+      "IVF",
+      "ICSI",
+      "Fertility Enhancing Surgeries",
+      "Specialized Fertility USG"
+    ]
+  },
+  "fetal_medicine": [
+    "Invasive Fetal Procedure",
+    "Genetic Counselling & management",
+    "Medical Genetics"
+  ]
+}
+,
+{
+  "chunk_id": "p18_dermatology_cosmetology",
+  "page_number": 18,
+  "type": "department_overview",
+  "main_title": "DERMATOLOGY & COSMETOLOGY CENTRE",
+  "overview_commitment": "The department of Dermatology & Cosmetology at the Accord Super Speciality Hospital is committed to providing excellent and complete dermatologic and cosmetic care leveraging the experience of our highly-vetted medical professionals. Regardless of your skin concern, whether cosmetic or related to general dermatology, we have your back.",
+  "overview_approach": "At Accord Super Speciality Hospital, we address, diagnose, and treat a wide range of skin conditions, covering the most prevalent to the most complicated and rare concerns people happen to face. We aim at improving your looks and boosting your self-esteem that sometimes thwarts owing to various skin conditions. We are here with our state-of-the-art technologies and advanced treatment options to cater to all your skin concerns.",
+  "overview_team": "Our team comprises experienced dermatologists and cosmetologists who specialize in various fields of skincare. We provide evidence based care and treatment of acne, acne scars, marks, pigmentation, hair reduction and anti-aging. We are following international protocols for quality and safety of patients.",
+  "services": [
+    "Acne",
+    "Eczetma",
+    "Psoriasis",
+    "Bacterial & Fungal Infections",
+    "Warts",
+    "Hair fall & Dandruff",
+    "Treatment for - Skin tags - corn and mole removal",
+    "Treatment for traumatic scar",
+    "Chemical peels for Acne & Pigmentation",
+    "Laser hair reduction",
+    "Laster treatment for pigmentation and acne scar",
+    "PRP for Hair loss",
+    "Laser Tattoo Removal",
+    "Anti-aging Services",
+    "Botox",
+    "Fillers",
+    "MNRF",
+    "Thermage/HIFU"
+  ]
+}
+,
+{
+  "chunk_id": "p19_ophthalmology",
+  "page_number": 19,
+  "type": "department_overview",
+  "main_title": "OPHTHALMOLOGY",
+  "overview_hospital_focus": "The hospital has an entire department dedicated to offering state of the art, integrated treatments to patients suffering from a vast spectrum of vision-related problems. With pioneering technology and an experienced team of eye specialists, offering advanced diagnostic and surgical modalities. Our entire team adheres to the core philosophy of Quality Eye Care With Compassion.",
+  "overview_treatment_approach": "All our treatment plans are backed by the best technology from across the globe and developed in accordance with the latest research and studies. All the procedures are tailored to suit the specific needs and requirements of the patients. We believe in offering patient-centric services while laying emphasis on transparency, patient engagement and education, thereby giving you a hassle-free experience",
+  "overview_interventions": "State of the art interventions offered at the Department of Ophthalmology at Accord Superspeciality Hospital include diagnostic & surgical modalities for glaucoma, cornea, and other problems related to the retina and vitreous. Our experts also hold specialization in procedures like ultrasound, lasers, squint surgery, plastic surgery of the eye, low vision aids, paediatric ophthalmology, as well as complete eye examinations.",
+  "services": [
+    "Micro Incision Cataract Surgery (MICS-PHACO)",
+    "Foldable-Multifocal/Trifocal IOL’s",
+    "Glaucoma-Treatment Protocols/Surgery",
+    "Squint Surgery/Oculo Plastic Surgery",
+    "Corneal Transplant Surgery/DSAEK/PRK/SBK",
+    "Paediatric Ocular Surgery",
+    "Uveitis, Cornea",
+    "Lasers/Retina-YAG Laser-Green Laser-Diode Laser",
+    "Investigations incl. Optical Coherence Tomography (OCT), Visual Fields Analyser, Non Contact Tonometer, USG A Scan/ B Scan, Pachymetry, AutoRef Keratometer(ARK), UBM",
+    "Ocular Trauma Surgery",
+    "Macular Degeneration Treatment",
+    "Diabetic Retinopathy Surgery",
+    "IntraVitreal Therapy"
+  ],
+  "facilities": [
+    "Contact Lenses/Optical Frames/Optical Counter"
+  ]
+}
+,
+{
+  "chunk_id": "p20_paediatrics_neonatology",
+  "page_number": 20,
+  "type": "department_overview",
+  "main_title": "PAEDIATRICS & NEONATOLOGY",
+  "overview_department": "Accord Super Speciality Hospital has a separate wing for children. Our team of doctors provides for the medical and surgical needs of toddlers, infants, adolescents. Our staff and intensive care physicians are highly trained and efficient in tackling any emergencies.\nOur paediatrics and neonatologists are trained doctors who understand children's problems even when they cannot articulate them verbally. Our doctors encompass the qualities of healers and counsellors. Our highly qualified team has the experience to deal with the rarest to the most prevalent diseases.",
+  "procedures_overview": "Accord Super Speciality Hospital has the most exemplary child care unit in the region with top world-class facilities combined with the excellence of our doctors are the key to our success.",
+  "procedures_undertaken": [
+    "Anaesthesia and sedation: Clinical use of general and topical anaesthesia in minor and major surgeries.",
+    "Cardiovascular disorders: The doctors expertly perform arterial puncture and venous access for paediatric emergencies.",
+    "Airway management: There are primary endotracheal intubation and rescue devices for children suffering from breathlessness.",
+    "ENT treatment: Our doctors offer comprehensive diagnosis and treatment to manage issues of the ear, nose, and throat.",
+    "Gastroenterology: This department looks after disorders such as hernias.",
+    "Genitourinary: There are treatment plans for children suffering from urinary tract infections.",
+    "Musculoskeletal care: Our doctors successfully treat all minor problems, including splints, fractures, ligament tears, and significant surgeries like knee replacement.",
+    "Neurology: Lumbar puncture and cervical motion restriction are a few problems that the doctors in our hospital are well versed in treating.",
+    "Pulmonary: Doctors, backed with quality trained medical staff, conduct flexible bronchoscopies and thoracentesis for your children."
+  ]
+}
+,
+{
+  "chunk_id": "p21_emergency_trauma_care",
+  "page_number": 21,
+  "type": "department_overview",
+  "main_title": "EMERGENCY & TRAUMA CARE",
+  "overview_department": "The Emergency and trauma care department at Accord Hospitals is a state of the art, 24X7 full service comprehensive facility tailored in providing life saving care to all patients. Working on the lines of international protocols, the department is trained to deliver world class care to patients suffering from stroke, attacks, polytrauma and abdominal emergencies. From minor cuts to life threatening attacks, Accord's emergency care unit can be trusted to do what's right for the patient.",
+  "overview_approach": "Every emergency, whether small or big, has to be managed differently. The department specialists are trained in diagnosing the patient problem quickly and treating it fast. After all, immediate intervention by a specialist during emergency situations makes a huge difference. The main focus areas of the department are as follows:",
+  "focus_areas": [
+    "Coordinated emergency care throughout the patient admission",
+    "A qualified, skilled and trained staff",
+    "A world class infrastructure involving equipment maintenance, waiting area, triage and vulnerable area.",
+    "Knowledge and monitoring of patient outcomes such as morbidity and mortality review and complaint monitoring so as to highlight any individual or system failure, if any.",
+    "A commitment to maintaining adequate resources and active engagement between the staff and patient Patients can expect a safe, timely, effective, efficient and equitable attention at the Accord Emergency care unit at all times."
+  ]
+}
+,
+{
+  "chunk_id": "p22_physiotherapy_rehabilitation",
+  "page_number": 22,
+  "type": "department_overview",
+  "main_title": "PHYSIOTHERAPY & REHABILITATION",
+  "overview_department": "Department of Physiotherapy & Rehabilitation at Accord Superspeciality Hospital has a team of experienced and highly trained staff. It is equipped with advanced world class modalities like Shockwave Therapy, Class IV LASER, Gait Trainer, ECG Telemetric Monitoring System for Cardiac Rehabilitation, Sensamove for balance training, etc.",
+  "overview_approach": "The Physiotherapists at Accord Superspeciality Hospital practice all advanced manual therapy techniques. The Physiotherapy & Rehab programs are designed to facilitate a faster recovery for patients suffering from neurological, orthopedic, cardiac illnesses, injuries or diseases. It helps in improving the mobility and activity levels of the patients while also shortening the amount of time needed by them to stay in hospital.",
+  "overview_programs": "The Hospital Rehabilitation Programs are tailored as per the individual needs of every patient. This is done by coordinating the efforts of different rehabilitation experts such as Physicians, Physiotherapists, Occupational Therapists, Speech Therapists, Nurses, Clinical Psychologists, Prothestists & Orthotists, Vocational Counselors, etc. These plans are designed in such a way that they can reverse certain disabling conditions that are considered to be non reversible by regular medical care. These Physiotherapy & Rehabilitation Programs address the physical, environmental and psychological needs of a patient through the process of restoring his or her physical functions as well as changing their social and physical environment."
+}
+,
+{
+  "chunk_id": "p23_dentistry",
+  "page_number": 23,
+  "type": "department_overview",
+  "main_title": "DENTISTRY",
+  "overview_department": "The Dentistry Department at Accord Superspeciality Hospital has always remained at the forefront of advancements in techniques and equipment. We understand that undergoing a medical procedure may cause you a little bit of pain, and to keep you away from it, our experts make use of a huge variety of safe local anesthetics. Apart from focusing on faster recovery and greater results by your prescribed treatment, we also concentrate on working with the least amount of risk and preventing any future infection regarding your oral and physical health.",
+  "overview_doctors_tech": "We have the best doctors in the field, and our dentistry has been recognized by many. We employ upgraded technologies of the modern age, such as:",
+  "technologies": [
+    "Root canal (single sitting*, rotary)",
+    "Dental implants (single tooth, implant bridges)",
+    "Dentures (partial/ complete, removable/fixed)",
+    "Dental crowns (metal/ PFM/ ceramic)",
+    "Aesthetic veneers",
+    "Dental bridges",
+    "Management of temporomandibular joint",
+    "Reconstructive oral surgery",
+    "Treatment of trauma to facial bones, oral cavity and teeth.",
+    "Non-surgical/surgical reduction of facial fractures",
+    "Extraction/ surgical exposure of impacted teeth",
+    "Extraction of wisdom tooth",
+    "Malalignment of teeth",
+    "Corrections of malformations of the jaw",
+    "Metal/ ceramic braces",
+    "Invisible teeth aligners",
+    "Treatment of oral malodour",
+    "Supra and subgingival scaling",
+    "Gum surgeries for pyorrhoea/ gum depigmentation",
+    "Periapical surgeries",
+    "Removal of oral cysts and tumors",
+    "Oral and gingival biopsy",
+    "Teeth whitening",
+    "Pediatric dentistry",
+    "Dental RGV",
+    "Dental implants",
+    "Implant physiodispenser",
+    "DMLS",
+    "DC portable x-rays",
+    "Scan posts",
+    "Guided implant surgery"
+  ],
+  "procedures": [
+    "Dental implants & full mouth rehabilitation",
+    "Pyorrhea treatment. ( bleeding gums, bad breath, loose teeth)",
+    "Impactions and surgical extractions",
+    "All ceramic crowns",
+    "Smile designing",
+    "Orthodontics & teeth whitening",
+    "Root canal treatment ( RCT)",
+    "Aesthetic dentistry-( veneer, laminates)",
+    "Pedodontic ( kids dental problems) specialized clinic."
+  ]
+}
+,
+{
+  "chunk_id": "p24_internal_medicine_rheumatology",
+  "page_number": 24,
+  "type": "department_overview",
+  "main_title": "INTERNAL MEDICINE & RHEUMATOLOGY",
+  "overview": "The internal medicine department of Accord offers comprehensive primary care services to patients suffering from a broad range of medical ailments. The department is equipped with some of the latest and top of the line technologies for the right management of chronic heart diseases, acute lung infections and other illnesses. The department has an expert healthcare team comprising of several experienced and board certified doctors of internal medicine along with nurses and support staff skilled in this area.\nThe doctors at Accord internal medicine department focus mainly on the delivery of multidisciplinary care to all patients of all ages. In addition, expert counseling and health education is also provided to both the patients as well as their attendants so as to facilitate a better recovery. Other specialty divisions of the hospital are also bought on board in case of complete evaluation of patient's condition and complex procedures need to be performed on them. Thus, your treatment is provided in an environment that is supported by research and education which then helps in yielding new medical treatments and advances. This care model helps in ensuring that you get exactly the care that you need. Everything is coordinated with each other and helping you avail all services under one roof at one location- Accord."
+}
+,
+{
+  "chunk_id": "p25_ent",
+  "page_number": 25,
+  "type": "department_overview",
+  "main_title": "ENT",
+  "overview_team_scope": "The expert ENT team at Accord provides consultation, diagnosis, and treatment of neck, ear, nose, throat and head disorders in all age groups. These disorders directly affect the basic life functions required for a good quality of life such as speech, hearing, breathing, balancing, smell and taste. The ENT specialists are trained to detect and manage diseases, trauma, tumors and defects in the neck, head, and face. They can effectively manage the issues associated with the head and neck nerves that control sight, hearing, smell and facial movements.",
+  "overview_conditions_procedures": "Some of the common conditions that are treated by an ENT specialist are sinusitis, swollen adenoids, Tinnitus, Eardrum perforation, Tonsilitis, and many others. All aspects of ENT care from major surgical interventions to minor procedures are dealt with in Accord. All forms of endoscopic surgeries such as micro ear surgery and micro laryngeal surgery is performed at Accord. The ENT experts at Accord provide specialized and comprehensive medical care for both benign and malignant conditions of head and neck. High quality patient care is offered to all surgical as well as non surgical patients.",
+  "overview_collaboration": "The ENT surgeons, doctors and nurses work together as a team working closely with other departments to provide a comprehensive and coordinated care to all the patients."
+}
+,
+{
+  "chunk_id": "p26_oncology",
+  "page_number": 26,
+  "type": "department_overview",
+  "main_title": "CENTRE OF EXCELLENCE ACCORD ONCOLOGY DEPARTMENT",
+  "overview": "Accord Hospital offers comprehensive care to cure cancer, we are equipped with state-of-the-art technology and world-class facilities for our patients. The oncology services comprise of Surgical, Medical & Rehabilitation. In surgical oncology, we provide surgical removal of cancer of Head & Neck, Breast, Hepatobiliary, GI, Uro & Gynae and these facilities are supported by a surgical oncologist, In Medical oncology, we provide chemotherapy for cancer. We have rehabilitation services for cancer patients, which help the patient regain control over many aspects of life during and after cancer treatment. The goal is to improve the patient's ability to function and to keep the patient as active and independent as possible.",
+  "services": [
+    "Head and Neck Oncology",
+    "Breast Oncology",
+    "Hepatobiliary Oncology",
+    "GI Oncology",
+    "Uro Oncology",
+    "Gynae Oncology",
+    "Thoracic Oncology",
+    "Chemotherapy for solid cancers"
+  ]
+}
+,
+{
+  "chunk_id": "p27_plastic_cosmetic_surgery",
+  "page_number": 27,
+  "type": "department_overview",
+  "main_title": "DEPARTMENT OF PLASTIC & COSMETIC SURGERY",
+  "overview": "The Accord Department of Plastic surgery and Reconstructive services offers state-of-the-art tertiary-level care in all the disciplines of Plastic Surgery. The department has an extensive and outstanding team of doctors who cover all aspects of Plastic surgery such as craniofacial surgery, aesthetic surgery, reconstructive microsurgery, hand surgery, burns and other general plastic surgeries. The hospital acts as a centre of excellence in aesthetic surgery, microsurgery, and hand & craniofacial surgery in the country. The department practices help bring functional correction and also improve the appearance of a person. Using the latest innovative techniques the doctors at Accord Hospital effortlessly repair a baby’s cleft lip, fix a fractured face, replant a cut finger and manage acute burn patients.",
+  "services": [
+    "Aesthetic Breast Surgery",
+    "Body contouring and liposuction",
+    "Chin Surgery",
+    "Ear Surgery",
+    "Face Lift",
+    "Facial Implants",
+    "Mammoaplasty",
+    "Mastopexy",
+    "Neck Lift",
+    "Nose Surgery",
+    "Otoplasty",
+    "Platysmaplasty",
+    "Rhinoplasty",
+    "Skin Refinishing",
+    "Abdominoplasty",
+    "Tummy Tuck",
+    "Anterior Resection Of Rectum"
+  ]
+}
+,
+{
+  "chunk_id": "p28_stem_cell_centre",
+  "page_number": 28,
+  "type": "department_overview",
+  "main_title": "STEM CELL CENTRE",
+  "overview_therapy": "Stem Cell therapy involves usage of stem cells for treatment of several medical conditions. These undifferentiated cells are then manipulated by the scientists into the healthy type needed by the patient and then implanted into them. The stem cells may be harvested from your own body (autologous transplant) or from a donor's body (allogeneic transplant). With technological advancements, stem cells are fast becoming a successful and viable procedure in the treatment of many degenerative diseases. The success rate of stem cell transplant is very high making it one of the safest transplantation with very less number of complications involved.",
+  "overview_centre_facilities": "The Accord Stem cell centre is equipped to perform all types of stem cell transplants including cord blood, peripheral blood and bone marrow. The hospital has ample facilities for the collection of stem cells, their processing, storage, cryopreservation and infusion, supported by a team of expert surgeons, doctors, hematologists and nurses. The centre's motto is to constantly forge ahead in the constantly evolving field of regenerative medicine, stem cells, nano technology and tissue engineering. The high standard of medical care and preventive health facilities offered by the centre is comparable to some of the best in the country as well as the globe."
+}
+,
+{
+  "chunk_id": "p29_imaging_radiology",
+  "page_number": 29,
+  "type": "department_overview",
+  "main_title": "IMAGING & RADIOLOGY",
+  "overview_department_services": "The radiology and imaging department at Accord is equipped with a comprehensive imaging system that provides radiology services to the patients 24X7. The services offered by the department cover a broad range of patient requirements such as Ultrasound, Doppler, Sonography, PET, MRI, CT, Dexa, Intervention procedures, Mammography, X rays and Fluoroscopy. The advanced technology medical equipments help in rendering an accurate and early diagnostic care.",
+  "overview_patient_scope": "Radiology services are offered to patients of all age groups including old age patients, new born children, inpatients and ambulatory patients. The experts aim to actively push the boundaries of radiology and imaging by training in research activities and seminars regularly. In order to ensure that all the malignancies related to a patient are treated properly, the department works closely with almost all the other specialties on a regular basis. It is the needs of the patients that drives the doctors at Accord.",
+  "overview_team_approach": "The imaging staff at Accord consists of clinicians, physicists, and imaging experts with years of experience to collaborate closely with doctors and surgeons alike to improve the quality care received by the patient at the hospital. The transactional nature and broad scope of our work has resulted in helping the department to develop new imaging techniques, leading edge interventions and innovative diagnostic tools for better patient care."
+}
+,
+{
+  "chunk_id": "p30_happiness_centre",
+  "page_number": 30,
+  "type": "section_text",
+  "main_title": "ACCORD HAPPINESS CENTRE",
+  "sub_title": "HAPPY PEOPLE PRODUCE HAPPY RESULTS",
+  "content_p1": "In the recent pandemic times, we all have experienced days when everything seems to be falling apart and the world looks to be ending. This is especially true in the healthcare industry which has been the main bearer of Covid 19 burden. Combine this with the helplessness faced by these Doctors and Nurses for not attending their own matters or the anxiety of venting their emotions and the situation becomes all the more detrimental.",
+  "content_p2": "This is where the Accord Hospital happiness coaches come in. They help our healthcare workers to find the positives in life so as to become happier and be more content with their lives.",
+  "content_p3_quote": "“Happiness is a choice”- the saying is truly spot on necessitating a purposeful approach towards a more fulfilling life. The importance of happiness coaching can be understood as:",
+  "happiness_coaching_points": [
+    "Helping the people to integrate their thoughts. More than this, they help in connecting your soul to spirit and restoring the internal balance."
+  ],
+  "content_p4_conclusion": "The changes made by happiness coaches might look small but are very important in sustaining the mental well being of a person working in the healthcare industry."
+}
+,
+{
+  "chunk_id": "p31_integrated_medicine",
+  "page_number": 31,
+  "type": "department_overview",
+  "main_title": "ACCORD CENTRE FOR INTEGRATED MEDICINE",
+  "overview_hospital": "Accord Superspeciality Hospital is the first hospital in the region to have an integrated medicine Centre, offering state of the art Ayurveda and other alternative therapies where various modalities of treatment work together for overall wellness and complete health solutions of a person. Most of the procedures are covered in TPA. The department aims at offer personalized lifestyle modifications and treatment for the holistic wellbeing of the patient where we ensure the overall well-being of the patients with evidence-based and trusted methods that are gaining a lot of momentum nowadays.",
+  "overview_recovery": "After undergoing treatment, or a surgical procedure, Accord Centre for Integrated Medicine help to optimize the process of your recovery. With age-old trusted techniques, complemented by state of the art rehabilitation modalities and expertise of our team, Accord Centre for Integrated Medicine aims at helping patients recover faster with enhanced outcomes.",
+  "overview_experience": "At Accord Centre for Integrated Medicine, we constantly strive to give you a hassle-free experience to make your visit worthwhile. Our experts will guide you with unparalleled care on every step. With precisely curated treatment plans, tailored to yield the best outcomes, we will help you become the healthier version of yourself.",
+  "therapies": [
+    {
+      "name": "AYURVEDA",
+      "description": "Ayurveda works on a prakriti of a patient where our experts will assess your overall health by analyzing a lifestyle and symptoms, using old age technique, namely nadi pariksha, which helps in the diagnosis of the disease. Treatment is based on your prakriti (vata-pitt-kapha) analysis, a personalized treatment plan will be curated, which is all-natural and without any side effects."
+    },
+    {
+      "name": "NATUROPATHY",
+      "description": "Naturopathy is an ancient mode of ayurvedic treatment which is now being used in a modern-day medicine. It uses natural remedies that help in self-healing. Natural therapy includes the use of herbs, massage, acupuncture, yoga, and satvik diet. It helps to cure many diseases such as cancer, obesity, fertility issues, headache, tumour, hormonal imbalance, diabetes, heart diseases, neural disorders, and skin-related diseases."
+    },
+    {
+      "name": "YOGA THERAPY",
+      "description": "Yoga therapy is an ancient fitness regime that helps in curing physical, emotional, and spiritual issues. It helps the overall well-being of an individual. It uses breathing techniques, posture-related exercises, and meditation to improve the mental and physical well-being of a person. Yoga helps in treating a lot of diseases such as depression, anxiety, cervical, spondylitis, obesity, diabetes, heart diseases hypertension, hyperthyroidism, PCOD, fertility issues, and digestive problems."
+    },
+    {
+      "name": "HOMOEOPATHY",
+      "description": "Homoeopathy is a branch of alternative medicine that is based on two beliefs:\n• 'like cures like' - Homeopathy supports the idea that our body can cure itself, which means that a substance that is responsible for triggering certain symptoms in a healthy person can help to cure the same symptoms in a sick person.\n• 'law of minimum dose' - Homeopathy also supports the notion that the lower the dose of medication, the better are the results. This is the reason why homoeopathic medicines are usually taken in diluted form."
+    }
+  ],
+  "integrated_medicine_effectiveness": {
+    "Children Diseases": "Female Problems",
+    "Skin Problems": "Endocrine Problems",
+    "Genetic Disorders": "Mental Problems",
+    "Respiratory Problems": "Cardiac Problem",
+    "Nervous Disorders": null
+  },
+  "benefits_of_integrated_medicine": [
+    "Integrated medicine focus on healing rather than disease.",
+    "It promotes the overall health of the patient by maintaining the natural equilibrium of the body to achieve healthy body, mind and spirit",
+    "No side-effects",
+    "Highly effective in chronic diseases",
+    "Increase longevity"
+  ],
+  "services_offered": ["AYURVEDIC", "MEDITATION", "YOGA THERAPY", "PANCHKARMA", "NATUROPATHY", "HOMOEOPATHY"]
+}
+,
+{
+  "chunk_id": "p32_international_patient_care",
+  "page_number": 32,
+  "type": "services_list",
+  "main_title": "INTERNATIONAL PATIENT CARE",
+  "overview": "Accord Superspeciality Hospital aims at providing technologically advanced healthcare services to international patients who are looking out for medical tourism in India.",
+  "pre_departure_services": {
+    "Tele-consults and Pre Departure Evaluation": null,
+    "Hotel Booking (Budget, Deluxe and Luxury Hotels)": null,
+    "Facilitate Travel arrangements": null,
+    "Airport (New Delhi ) Pick Up and Drop": null,
+    "Visa Services": null,
+    "Bedside admission in the Hospital": null
+  },
+  "post_admission_services": {
+    "Dedicated International Lounge": null,
+    "Interpreters": null,
+    "Money Changer within the Hospital": null,
+    "Choice of rooms from private to luxury suites": null,
+    "Wi Fi enabled suites": null,
+    "Cuisine choices": null,
+    "Travel Desk within the hospital": null
+  },
+  "post_discharge_services": {
+    "Post Discharge travel arrangements": null,
+    "Travel Assistance for sightseeing within India": null,
+    "Post discharge stay in Delhi/NCR in a choice of hotels": null,
+    "Tele-consultation with the treating doctor": null
+  }
+}
+,
+{
+  "chunk_id": "p33_adv_tech_1",
+  "page_number": 33,
+  "type": "technology_showcase",
+  "main_title": "ADVANCE TECHNOLOGIES AT ACCORD",
+  "technologies": [
+    "3RD GENERATION NEURO & CARDIAC CATH LAB",
+    "ADVANCED VASCULAR LAB",
+    "500 SLICE CT",
+    "CENTRICITY INTEGRATED ICU",
+    "HIGHLY ADVANCED ENDOSCOPY SUITE",
+    "ADVANCED CARDIAC MRI, MR Neurography, Functional MRI of Brain",
+    "DEDICATED NEURO & STROKE ICU",
+    "DIGITAL ORTHOPAEDIC SUITE",
+    "COMPUTER NAVIGATED JOINTS & SPINE SURGERY"
+  ]
+},
+{
+  "chunk_id": "p34_adv_tech_2",
+  "page_number": 34,
+  "type": "technology_showcase",
+  "main_title": "ADVANCE TECHNOLOGIES AT ACCORD",
+  "technologies": [
+    "ADVANCED KIDNEY TRANSPLANT UNIT",
+    "DIALYSIS CENTRE WITH ADVANCED THERAPY",
+    "ORTHO & NEURO REHABILITATION",
+    "4K LAPAROSCOPIC SUITE - FIRST IN FARIDABAD",
+    "DELHI/NCR ONLY US FDA APPROVED ROBOT FOR KNEE RESURFACING",
+    "SPORTS INJURY UNIT",
+    "DERMATOLOGY & COSMETOLOGY",
+    "STATE OF THE ART MOTHER & CHILD CARE CENTRE",
+    "LASER VARICOSE VEINS & DIABETIC FOOT CARE CENTRE"
+  ]
+},
+
+{
+  "chunk_id": "p35_image_collage",
+  "page_number": 35,
+  "type": "image_collage",
+  "description": "Collage of various hospital interior and facility images. No specific text content to extract."
+},
+
+{
+  "chunk_id": "p36_contact_info",
+  "page_number": 36,
+  "type": "contact_information",
+  "hospital_name": "Accord Superspeciality Hospital",
+  "appointment_phone": "0129 351 2000",
+  "address": "Sector 86, Greater Faridabad, Delhi-NCR, India",
+  "website": "www.accordhospitals.co.in"
+}
+]
