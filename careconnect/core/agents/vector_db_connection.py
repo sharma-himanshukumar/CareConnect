@@ -1,7 +1,3 @@
-# %pip install --upgrade --force-reinstall databricks-vectorsearch 
-# %pip install openai
-# dbutils.library.restartPython()
-
 from databricks.vector_search.client import VectorSearchClient
 from databricks.sdk.errors import ResourceAlreadyExists, NotFound
 import time
@@ -416,5 +412,11 @@ def call_vector_db(api_key, query, top_n):
         else:
             return {}
 
-# api_key=dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiToken().get()
-# call_vector_db(api_key,"Hi, I need some help, give me hospital doctors specialty for heart", 5)
+
+
+if __name__ == "__main__":
+    %pip install --upgrade --force-reinstall databricks-vectorsearch 
+    %pip install openai
+    dbutils.library.restartPython()
+    api_key=dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiToken().get()
+    call_vector_db(api_key,"Hi, I need some help, give me hospital doctors specialty for heart", 5)
