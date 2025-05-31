@@ -415,8 +415,8 @@ def call_vector_db(api_key, query, top_n):
 
 
 if __name__ == "__main__":
-    %pip install --upgrade --force-reinstall databricks-vectorsearch 
-    %pip install openai
-    dbutils.library.restartPython()
+    # %pip install --upgrade --force-reinstall databricks-vectorsearch 
+    # %pip install openai
+    # dbutils.library.restartPython()
     api_key=dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiToken().get()
     call_vector_db(api_key,"Hi, I need some help, give me hospital doctors specialty for heart", 5)

@@ -15,7 +15,7 @@ def refine_prompt_call_LLM(raw_query: str) -> str:
     """
     Calls the LLM endpoint to refine a raw user query into a concise search query.
     """
-    DATABRICKS_TOKEN = os.getenv('DATABRICKS_TOKEN')#dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiToken().get()
+    DATABRICKS_TOKEN = os.getenv('DATABRICKS_TOKEN')# dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiToken().get() #
     ENDPOINT_URL = "https://dbc-65fcd381-2e74.cloud.databricks.com/serving-endpoints"
 
     client = OpenAI(

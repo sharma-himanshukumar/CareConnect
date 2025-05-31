@@ -329,7 +329,7 @@ workflow.add_edge("synthesizer", END)
 
 app = workflow.compile()
 
-def run_query(user_input_query):
+def hospital_agent(user_input_query, location):
     if not llm:
         print("LLM is not initialized. Cannot run query.")
         return "LLM not available."
@@ -338,11 +338,11 @@ def run_query(user_input_query):
     final_state = app.invoke(inputs)
     return final_state.get("final_answer", "No answer synthesized.")
 
-if __name__ == "__main__":
-    %pip install --disable-pip-version-check -q langchain_core langchain_openai langgraph
-    %pip install --upgrade --force-reinstall -q databricks-vectorsearch
-    dbutils.library.restartPython()
-    query1 = "Hi, I'm in Delhi, feeling heaveness in my heart and I want to know about the nearest hospital and contact details"
-    print(f"\n\n--- Running Query 1: '{query1}' ---")
-    answer1 = run_query(query1)
-    print(f"\nFinal Answer for Query 1:\n{answer1}")
+# if __name__ == "__main__":
+#     %pip install --disable-pip-version-check -q langchain_core langchain_openai langgraph
+#     %pip install --upgrade --force-reinstall -q databricks-vectorsearch
+#     dbutils.library.restartPython()
+#     query1 = "Hi, I'm in Delhi, feeling heaveness in my heart and I want to know about the nearest hospital and contact details"
+#     print(f"\n\n--- Running Query 1: '{query1}' ---")
+#     answer1 = run_query(query1)
+#     print(f"\nFinal Answer for Query 1:\n{answer1}")

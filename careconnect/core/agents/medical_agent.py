@@ -1,8 +1,8 @@
 import sys
-sys.path.append('/Workspace/Shared/careconnect/')
 import os
 from typing import TypedDict, Optional
 from langgraph.graph import StateGraph, END
+# sys.path.append('/Workspace/Users/himanshuksharma@deloitte.com/CareConnect/careconnect/')
 from core.connectors.vector_connector_medical_agent import call_vector_db
 from dotenv import load_dotenv
 from core.connectors.llm_connector import chat_completion_sync
@@ -76,7 +76,7 @@ workflow.add_edge("query_processor", "responder")
 
 app = workflow.compile()
 
-def run_medicine_recommendation(user_query: str):
+def medical_recommendation_agent(user_query: str):
     inputs = {"user_query": user_query}
     print("\n---STARTING MEDICINE RECOMMENDATION WORKFLOW---")
     print(f"User Query: {user_query}")
@@ -99,6 +99,9 @@ def run_medicine_recommendation(user_query: str):
     return "No response generated, and no specific error reported in final state."
 
 if __name__ == "__main__":
+    # %pip install --disable-pip-version-check -q langchain_core langchain_openai langgraph python-dotenv
+    # %pip install --upgrade --force-reinstall -q databricks-vectorsearch
+    # dbutils.library.restartPython()
     print("\n--- Medicine Recommendation ---")
     user_query = "What medicine can I take for a headache?"
     medicine_suggestions = run_medicine_recommendation(user_query)

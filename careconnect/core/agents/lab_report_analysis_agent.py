@@ -155,7 +155,7 @@ workflow.add_edge("responder", END)
 
 app = workflow.compile()
 
-def run_lab_report_analysis(file_path_to_analyze: str):
+def lab_report_summarizer_agent(file_path_to_analyze: str):
     inputs = {"uploaded_file": file_path_to_analyze}
     final_state = None
     for event in app.stream(inputs, {"recursion_limit": 10}):
@@ -174,13 +174,13 @@ def run_lab_report_analysis(file_path_to_analyze: str):
 
 
 if __name__ == "__main__":
-    %pip install --disable-pip-version-check -q langchain_core langchain_openai langgraph pymupdf python-docx
-    dbutils.library.restartPython()
+    # %pip install --disable-pip-version-check -q langchain_core langchain_openai langgraph pymupdf python-docx
+    # dbutils.library.restartPython()
     print("\n--- Analyzing PDF Report ---")
     file ="/Volumes/careconnect/default/lab_reports/CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf"
     if os.path.exists(file):
         pdf_report_path = file
-        pdf_summary = run_lab_report_analysis(pdf_report_path)
+        pdf_summary = lab_report_summarizer_agent(pdf_report_path)
         print("\nFINAL PDF SUMMARY:\n", pdf_summary)
     else:
         print("dummy_lab_report.pdf not found, skipping PDF analysis.")

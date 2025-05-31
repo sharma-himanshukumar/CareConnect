@@ -35,7 +35,7 @@ The following table is available in Unity Catalog under catalog `careconnect` an
 - If a query mentions a location (e.g., area, locality, neighborhood), filter based on the `Area` or `Address` column.
 - If the user asks for top or best labs, sort by `Rating` in descending order.
 - If they ask or not always provide contact or visiting information, include `Phone` and `Timing`.
-- If they ask or not Google Maps links, include the `Location` column should be given.
+- If they ask or not always provide `Location` column.
 - Make reasonable assumptions to infer meaning from natural language and match it to filters on available columns.
 
 ### Rules:
@@ -46,6 +46,7 @@ The following table is available in Unity Catalog under catalog `careconnect` an
 - Use `LIMIT` in queries that return large result sets.
 - Use `WHERE`, `ORDER BY`, and `LIKE` clauses appropriately to interpret user intent based on area, rating, or lab type.
 - Never leave the result set unbounded unless clearly required.
+- ALways pull 5 rows unless user asks defines no of items needed.
 
 Respond only with the SQL code block, and nothing else.
 """
@@ -70,7 +71,7 @@ def generate_sql_from_question(question):
     sql_code = content.split("```")[1].strip() if "```" in content else content
     return sql_code
 
-def ask_and_run(question):
+def pathology_agent(question):
     sql_query = generate_sql_from_question(question)
     sql_query= sql_query.replace("sql",'') + ";"
     try:
@@ -84,8 +85,9 @@ def ask_and_run(question):
 
 if __name__ == "__main__":
     print("Initializing SQL assistant...")
-    %pip install --disable-pip-version-check -q langchain_core langchain_openai langgraph
-    dbutils.library.restartPython()
-    ask_and_run("help me with all pathalogs or lab in delhi")
+    # %pip install --disable-pip-version-check -q langchain_core langchain_openai langgraph
+    # dbutils.library.restartPython()
+    # data =ask_and_run("help me with all pathalogs or lab in delhi")
+    # print(data)
 
 
