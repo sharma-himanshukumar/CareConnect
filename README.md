@@ -3,8 +3,8 @@
 **Category:** Healthcare  
 **Hackathon Project**
 
-CareConnect is an all-in-one healthcare assistance platform designed to provide quick, concise, and reliable information tailored to a user's needs. Whether you're searching for nearby hospitals specializing in cardiac care or looking for pathology labs around you, CareConnect is here to help.
-Contributor:- **Himanshu Kumar Sharma, Ashish Gupta**
+CareConnect is an all-in-one healthcare assistance platform designed to provide quick, concise, and reliable information tailored to a user's needs. Whether you're searching for nearby hospitals specialising in cardiac care or looking for pathology labs around you, CareConnect is here to help.
+Contributor:- Himanshu Kumar Sharma, Ashish Gupta
 ---
 
 ## 🚀 Overview
