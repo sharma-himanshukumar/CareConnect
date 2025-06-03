@@ -6,6 +6,7 @@ from typing import TypedDict, Annotated, List, Union
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from langgraph.graph import StateGraph, END
+from pyspark.sql import SparkSession
 from openai import OpenAI
 sys.path.append('/Workspace/Users/himanshuksharma@deloitte.com/CareConnect/careconnect')
 from core.agents.vector_db_connection import Embeddings, call_vector_db
@@ -19,28 +20,32 @@ class AgentState(TypedDict):
     final_answer: str
     error_message: str # To store any errors encountered
 
-try:
-    DATABRICKS_TOKEN = dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiToken().get()
-    if not DATABRICKS_TOKEN:
-        raise ValueError("DATABRICKS_TOKEN is not set.")
-except Exception as e:
-    print(f"Error getting DATABRICKS_TOKEN: {e}. Please ensure it's correctly configured.")
-    DATABRICKS_TOKEN = "dummy_token_if_testing_non_llm_parts"
+def llm_connection():
+    try:
+        DATABRICKS_TOKEN = os.getenv('DATABRICKS_TOKEN') #dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiToken().get()
+        if not DATABRICKS_TOKEN:
+            raise ValueError("DATABRICKS_TOKEN is not set.")
+    except Exception as e:
+        print(f"Error getting DATABRICKS_TOKEN: {e}. Please ensure it's correctly configured.")
+        DATABRICKS_TOKEN = "dummy_token_if_testing_non_llm_parts"
 
-DATABRICKS_SERVING_BASE_URL = "https://dbc-65fcd381-2e74.cloud.databricks.com/serving-endpoints"
-YOUR_DATABRICKS_MODEL_ENDPOINT_NAME_FOR_CHAT = "databricks-claude-3-7-sonnet"
+    DATABRICKS_SERVING_BASE_URL = "https://dbc-65fcd381-2e74.cloud.databricks.com/serving-endpoints"
+    YOUR_DATABRICKS_MODEL_ENDPOINT_NAME_FOR_CHAT = "databricks-claude-3-7-sonnet"
 
-try:
-    llm = ChatOpenAI(
-        model_name=YOUR_DATABRICKS_MODEL_ENDPOINT_NAME_FOR_CHAT,
-        openai_api_base=DATABRICKS_SERVING_BASE_URL, 
-        openai_api_key=DATABRICKS_TOKEN,
-        temperature=0.1, 
-    )
-    print(f"LangChain LLM (ChatOpenAI) configured for Databricks Model Serving endpoint: '{YOUR_DATABRICKS_MODEL_ENDPOINT_NAME_FOR_CHAT}' at '{DATABRICKS_SERVING_BASE_URL}'")
-except Exception as e:
-    print(f"Error initializing ChatOpenAI for Databricks Model Serving. Ensure endpoint name and token are correct. Error: {e}")
+    try:
+        llm = ChatOpenAI(
+            model_name=YOUR_DATABRICKS_MODEL_ENDPOINT_NAME_FOR_CHAT,
+            openai_api_base=DATABRICKS_SERVING_BASE_URL, 
+            openai_api_key=DATABRICKS_TOKEN,
+            temperature=0.1, 
+        )
+        print(f"LangChain LLM (ChatOpenAI) configured for Databricks Model Serving endpoint: '{YOUR_DATABRICKS_MODEL_ENDPOINT_NAME_FOR_CHAT}' at '{DATABRICKS_SERVING_BASE_URL}'")
+    
+    except Exception as e:
+        print(f"Error initializing ChatOpenAI for Databricks Model Serving. Ensure endpoint name and token are correct. Error: {e}")
+        llm = None
 
+    return llm
 
 
 
@@ -98,7 +103,7 @@ def generate_sql_query_node(state: AgentState):
     - Use **fully qualified table names** as listed above.
     - Do not explain the query.
     - Always wrap the SQL in triple backticks (```).
-    - Use `LIMIT` to 10 in queries that return large result sets.
+    - Use `LIMIT` to 5 in queries that return large result sets.
     - Make intelligent assumptions if some information is missing or unclear.
     Respond only with the SQL code block, and nothing else.
     """
@@ -106,6 +111,7 @@ def generate_sql_query_node(state: AgentState):
         ("system", system_message),
         ("human", f"{user_query}")
     ])
+    llm =llm_connection()
     if not llm:
         return {"sql_query": None, "error_message": "LLM not initialized for SQL generation."}
 
@@ -123,6 +129,21 @@ def generate_sql_query_node(state: AgentState):
         print(f"Error in SQL generation: {e}")
         return {"sql_query": None, "error_message": f"SQL generation failed: {str(e)}"}
 
+
+def initialize_spark_session(app_name="MySparkApp"):
+    """Initializes and returns a SparkSession."""
+    try:
+        # Try to get an existing Spark session or create a new one
+        spark = SparkSession.builder \
+            .appName(app_name) \
+            .config("spark.sql.legacy.timeParserPolicy", "LEGACY").config("spark.sql.sources.partitionOverwriteMode", "dynamic").getOrCreate()
+        print("SparkSession initialized successfully.")
+        return spark
+    except Exception as e:
+        print(f"Error initializing SparkSession: {e}")
+        raise
+
+
 def execute_sql_node(state: AgentState):
     """
     Executes the generated SQL query.
@@ -134,6 +155,8 @@ def execute_sql_node(state: AgentState):
         return {"sql_results": "No SQL query provided."}
 
     try:
+        print(sql_query)
+        spark = initialize_spark_session()
         df = spark.sql(sql_query)
         df=df.toPandas()
         results = df.to_dict(orient="records")
@@ -147,9 +170,11 @@ def vector_db_search_node(state: AgentState):
     Performs a search on the vector database.
     """
     print("---AGENT: Vector DB Searcher---")
-    user_query = state["user_query"]
+    user_query = state["user_query"] 
+    api_key= dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiToken().get()
     try:
         result = call_vector_db(api_key, user_query, 5)
+        print(result)
         return {"vector_db_results":result}
     except Exception as e:
         print(f"Error in Vector DB search: {e}")
@@ -188,6 +213,7 @@ def query_router_node(state: AgentState):
     Analyze the following user query: "{user_query}"
     Respond with only one of the following keywords: SQL_DATABASE, VECTOR_DATABASE, BOTH, GENERAL.
     """
+    llm = llm_connection()
     if not llm:
         return {"route_decision": "GENERAL", "error_message": "LLM not initialized for routing."}
 
@@ -250,6 +276,7 @@ def answer_synthesizer_node(state: AgentState):
     "\n\n".join({context_parts})
     Provide a final answer to the user.
     """
+    llm = llm_connection()
     if not llm:
         return {"final_answer": "I'm sorry, the LLM is not available to synthesize the answer."}
 
@@ -329,20 +356,17 @@ workflow.add_edge("synthesizer", END)
 
 app = workflow.compile()
 
-def hospital_agent(user_input_query, location):
-    if not llm:
-        print("LLM is not initialized. Cannot run query.")
-        return "LLM not available."
+def hospital_agent(user_input_query):
 
     inputs = {"user_query": user_input_query}
     final_state = app.invoke(inputs)
     return final_state.get("final_answer", "No answer synthesized.")
 
-# if __name__ == "__main__":
-#     %pip install --disable-pip-version-check -q langchain_core langchain_openai langgraph
-#     %pip install --upgrade --force-reinstall -q databricks-vectorsearch
-#     dbutils.library.restartPython()
-#     query1 = "Hi, I'm in Delhi, feeling heaveness in my heart and I want to know about the nearest hospital and contact details"
-#     print(f"\n\n--- Running Query 1: '{query1}' ---")
-#     answer1 = run_query(query1)
-#     print(f"\nFinal Answer for Query 1:\n{answer1}")
+if __name__ == "__main__":
+    # %pip install --disable-pip-version-check -q langchain_core langchain_openai langgraph
+    # %pip install --upgrade --force-reinstall -q databricks-vectorsearch
+    # dbutils.library.restartPython()
+    query1 = "Hi, I'm in Delhi, feeling heaveness in my heart and I want to know about the nearest hospital and contact details"
+    print(f"\n\n--- Running Query 1: '{query1}' ---")
+    answer1 = hospital_agent(query1)
+    print(f"\nFinal Answer for Query 1:\n{answer1}")
