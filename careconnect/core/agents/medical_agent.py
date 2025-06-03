@@ -2,7 +2,7 @@ import sys
 import os
 from typing import TypedDict, Optional
 from langgraph.graph import StateGraph, END
-# sys.path.append('/Workspace/Users/himanshuksharma@deloitte.com/CareConnect/careconnect/')
+sys.path.append('/Workspace/Users/himanshuksharma@deloitte.com/CareConnect/careconnect/')
 from core.connectors.vector_connector_medical_agent import call_vector_db
 from dotenv import load_dotenv
 from core.connectors.llm_connector import chat_completion_sync
@@ -57,10 +57,6 @@ def final_response_node(state: AgentState) -> AgentState:
     except Exception as e:
         return {"error_message": f"Error formatting suggestions: {str(e)}"}
 
-    # # Format the suggestions for the user
-    # formatted_suggestions = "\n".join(
-    #     [f"- {item['id']}: {item['indication']}" for item in suggestions]
-    # )
     return {"final_answer": formatted_suggestions}
 
 workflow = StateGraph(AgentState)
@@ -104,5 +100,5 @@ if __name__ == "__main__":
     # dbutils.library.restartPython()
     print("\n--- Medicine Recommendation ---")
     user_query = "What medicine can I take for a headache?"
-    medicine_suggestions = run_medicine_recommendation(user_query)
+    medicine_suggestions = medical_recommendation_agent(user_query)
     print("\nFINAL MEDICINE SUGGESTIONS:\n", medicine_suggestions)
