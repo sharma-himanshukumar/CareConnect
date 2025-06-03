@@ -1,3 +1,7 @@
+# %pip install --disable-pip-version-check -q langchain_core langchain_openai langgraph pymupdf python-docx
+
+# dbutils.library.restartPython()
+
 import os
 import sys
 import fitz
@@ -20,7 +24,7 @@ class AgentState(TypedDict):
     error_message: Optional[str] 
 
 try:
-    DATABRICKS_TOKEN = dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiToken().get()
+    DATABRICKS_TOKEN = os.getenv('DATABRICKS_TOKEN') ##dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiToken().get()
     if not DATABRICKS_TOKEN:
         raise ValueError("DATABRICKS_TOKEN is not set.")
 except Exception as e:
@@ -155,16 +159,17 @@ workflow.add_edge("responder", END)
 
 app = workflow.compile()
 
-def lab_report_summarizer_agent(file_path_to_analyze: str):
+def lab_report_summarizer_agent(user_query: str, file_path_to_analyze: str):
     inputs = {"uploaded_file": file_path_to_analyze}
     final_state = None
-    for event in app.stream(inputs, {"recursion_limit": 10}):
-        for key, value in event.items():
-            print(f"---EVENT FROM NODE: {key}---")
-            if 'error_message' in value and value['error_message']:
-                print(f"ERROR: {value['error_message']}")
-            if 'final_answer' in value:
-                final_state = value
+    final_state = app.invoke(inputs)
+    # for event in app.stream(inputs, {"recursion_limit": 10}):
+    #     for key, value in event.items():
+    #         print(f"---EVENT FROM NODE: {key}---")
+    #         if 'error_message' in value and value['error_message']:
+    #             print(f"ERROR: {value['error_message']}")
+    #         if 'final_answer' in value:
+    #             final_state = value
     
     if final_state and final_state.get("final_answer"):
         return final_state["final_answer"]
@@ -180,7 +185,7 @@ if __name__ == "__main__":
     file ="/Volumes/careconnect/default/lab_reports/CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf"
     if os.path.exists(file):
         pdf_report_path = file
-        pdf_summary = lab_report_summarizer_agent(pdf_report_path)
+        pdf_summary = lab_report_summarizer_agent("asdasda",pdf_report_path)
         print("\nFINAL PDF SUMMARY:\n", pdf_summary)
     else:
         print("dummy_lab_report.pdf not found, skipping PDF analysis.")
